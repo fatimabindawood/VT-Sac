@@ -1,5 +1,5 @@
 var dataJson = {
-    "scenes": [/*{
+    "scenes": [{
             "sceneName": "1",
             "image": "1.jpg",
             "infoPoints": [{
@@ -7,7 +7,7 @@ var dataJson = {
                     "infoPointsCoordinates": [3707.66, -2791.30, 1838.14],
                     "infoHoverText": "2",
                 }]
-        },*/ {
+        }, {
             "sceneName": "2",
             "image": "2.jpg",
             "infoPoints": [{
