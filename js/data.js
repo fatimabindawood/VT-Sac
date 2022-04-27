@@ -16,11 +16,11 @@ var dataJson = {
                     "infoHoverText": "1"
                 }, {
                     "infoPointsName": "3",
-                    "infoPointsCoordinates": [-3793.74, -1796.61, -2707.11],
+                    "infoPointsCoordinates": [2034.80, -1173.27, 4410.41],
                     "infoHoverText": "3"		
                 }
             ]
-        }/*, {
+        }, {
             "sceneName": "3",
             "image": "3.jpg",
             "infoPoints": [{
@@ -990,6 +990,6 @@ var dataJson = {
                     "infoHoverText": "66"					
                 }				
             ]
-        }*/
+        }
     ]
 };
