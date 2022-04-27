@@ -20,7 +20,7 @@ var dataJson = {
                     "infoHoverText": "3"		
                 }
             ]
-        }, {
+        }/*, {
             "sceneName": "3",
             "image": "3.jpg",
             "infoPoints": [{
@@ -990,6 +990,6 @@ var dataJson = {
                     "infoHoverText": "66"					
                 }				
             ]
-        }
+        }*/
     ]
 };
