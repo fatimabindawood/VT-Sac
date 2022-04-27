@@ -1,5 +1,5 @@
 var dataJson = {
-    "scenes": [{
+    "scenes": [/*{
             "sceneName": "1",
             "image": "1.jpg",
             "infoPoints": [{
@@ -7,7 +7,7 @@ var dataJson = {
                     "infoPointsCoordinates": [3707.66, -2791.30, 1838.14],
                     "infoHoverText": "2",
                 }]
-        }, {
+        },*/ {
             "sceneName": "2",
             "image": "2.jpg",
             "infoPoints": [{
@@ -615,7 +615,7 @@ var dataJson = {
                     "infoHoverText": "41"					
                 }, {
                     "infoPointsName": "43",
-                "infoPointsCoordinates": [4562.42, -1996.21, -358.83],
+                "infoPointsCoordinates": [3140.09, -1964.13, -3350.75],
                     "infoHoverText": "43"		
                 }				
 				
@@ -626,11 +626,11 @@ var dataJson = {
             "image": "43.jpg",
             "infoPoints": [{
                     "infoPointsName": "42",
-                "infoPointsCoordinates": [4537.76, -1886.09, -902.86],
+                "infoPointsCoordinates": [4041.83, -2721.19, -1084.62],
                     "infoHoverText": "42"					
                 }, {
                     "infoPointsName": "44",
-                "infoPointsCoordinates": [2555.14, -3046.93, 3019.40],
+                "infoPointsCoordinates": [2759.78, -1961.23, 3672.76],
                     "infoHoverText": "44"		
                 }				
 				
@@ -641,11 +641,11 @@ var dataJson = {
             "image": "44.jpg",
             "infoPoints": [{
                     "infoPointsName": "43",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [3252.92, -1644.60, 3411.00],
                     "infoHoverText": "43"					
                 }, {
                     "infoPointsName": "45",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [4468.94, -1723.57, -1415.45],
                     "infoHoverText": "45"		
                 }				
 				
@@ -656,11 +656,11 @@ var dataJson = {
             "image": "45.jpg",
             "infoPoints": [{
                     "infoPointsName": "44",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-1659.30, -2256.58, 4135.10],
                     "infoHoverText": "44"					
                 }, {
                     "infoPointsName": "46",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-709.36, -1646.89, -4657.63],
                     "infoHoverText": "46"		
                 }				
 				
@@ -671,11 +671,11 @@ var dataJson = {
             "image": "46.jpg",
             "infoPoints": [{
                     "infoPointsName": "45",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-4038.55, -1845.42, 2290.23],
                     "infoHoverText": "45"					
                 }, {
                     "infoPointsName": "47",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-4257.25, -1143.15, 2349.67],
                     "infoHoverText": "47"		
                 }				
 				
@@ -686,11 +686,11 @@ var dataJson = {
             "image": "47.jpg",
             "infoPoints": [{
                     "infoPointsName": "46",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [3712.47, -639.30, 3278.83],
                     "infoHoverText": "46"					
                 }, {
                     "infoPointsName": "48",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-3466.61, -1501.77, 3266.42],
                     "infoHoverText": "48"		
                 }				
 				
@@ -701,11 +701,11 @@ var dataJson = {
             "image": "48.jpg",
             "infoPoints": [{
                     "infoPointsName": "47",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [2940.30, -1302.71, 3817.34],
                     "infoHoverText": "47"					
                 }, {
                     "infoPointsName": "49",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-3415.26, -3056.60, -1987.78],
                     "infoHoverText": "49"		
                 }				
 				
@@ -716,11 +716,11 @@ var dataJson = {
             "image": "49.jpg",
             "infoPoints": [{
                     "infoPointsName": "48",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [2013.92, -2642.43, 3729.58],
                     "infoHoverText": "48"					
                 }, {
                     "infoPointsName": "50",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-3706.52, -2323.89, 2405.65],
                     "infoHoverText": "50"		
                 }				
 				
@@ -731,11 +731,11 @@ var dataJson = {
             "image": "50.jpg",
             "infoPoints": [{
                     "infoPointsName": "49",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                    "infoPointsCoordinates": [-3798.55, -2266.38, -2322.34],
                     "infoHoverText": "49"					
                 }, {
                     "infoPointsName": "51",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                    "infoPointsCoordinates": [3786.42, - 2940.61, 1404.40],
                     "infoHoverText": "51"		
                 }				
 				
@@ -746,11 +746,11 @@ var dataJson = {
             "image": "51.jpg",
             "infoPoints": [{
                     "infoPointsName": "50",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                    "infoPointsCoordinates": [-3744.86, -2482.37, -2183.87],
                     "infoHoverText": "50"					
                 }, {
                     "infoPointsName": "52",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                    "infoPointsCoordinates": [-1160.68, -3171.80, 3681.24],
                     "infoHoverText": "52"		
                 }				
 				
@@ -761,11 +761,11 @@ var dataJson = {
             "image": "52.jpg",
             "infoPoints": [{
                     "infoPointsName": "51",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-2157.53, -2470.41, 3768.01],
                     "infoHoverText": "51"					
                 }, {
                     "infoPointsName": "53",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [2217.49, -2043.24, 3980.42],
                     "infoHoverText": "53"		
                 }				
 				
@@ -776,11 +776,11 @@ var dataJson = {
             "image": "53.jpg",
             "infoPoints": [{
                     "infoPointsName": "52",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-3290.45, -2278.14, -2994.81],
                     "infoHoverText": "52"					
                 }, {
                     "infoPointsName": "54",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [3168.27, -2709.49, -2749.67],
                     "infoHoverText": "54"		
                 }				
 				
@@ -791,11 +791,11 @@ var dataJson = {
             "image": "54.jpg",
             "infoPoints": [{
                     "infoPointsName": "53",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-2712.57, -2939.70, -2999.34],
                     "infoHoverText": "53"					
                 }, {
                     "infoPointsName": "55",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [2797.26, -1197.40, 3962.45],
                     "infoHoverText": "55"		
                 }				
 				
@@ -806,11 +806,11 @@ var dataJson = {
             "image": "55.jpg",
             "infoPoints": [{
                     "infoPointsName": "54",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-4678.02, -1259.67, 1199.79],
                     "infoHoverText": "54"					
                 }, {
                     "infoPointsName": "56",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-196.68, -1939.53, 4597.05],
                     "infoHoverText": "56"		
                 }				
 				
@@ -821,11 +821,11 @@ var dataJson = {
             "image": "56.jpg",
             "infoPoints": [{
                     "infoPointsName": "55",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-4443.62, -1928.41, -1213.05],
                     "infoHoverText": "55"					
                 }, {
                     "infoPointsName": "57",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [3454.16, -2802.37, -2265.27],
                     "infoHoverText": "57"		
                 }				
 				
@@ -836,11 +836,11 @@ var dataJson = {
             "image": "57.jpg",
             "infoPoints": [{
                     "infoPointsName": "56",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [2647.61, -2850.43, 3129.91],
                     "infoHoverText": "56"					
                 }, {
                     "infoPointsName": "58",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-3190.59, -1808.41, 3387.99],
                     "infoHoverText": "58"		
                 }				
 				
@@ -851,11 +851,11 @@ var dataJson = {
             "image": "58.jpg",
             "infoPoints": [{
                     "infoPointsName": "57",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [2331.80, -1755.52, 4054.54],
                     "infoHoverText": "57"					
                 }, {
                     "infoPointsName": "59",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-273.98, -2296.74, -4425.67],
                     "infoHoverText": "59"		
                 }				
 				
@@ -866,11 +866,11 @@ var dataJson = {
             "image": "59.jpg",
             "infoPoints": [{
                     "infoPointsName": "58",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [2486.09, -3125.61, 2995.61],
                     "infoHoverText": "58"					
                 }, {
                     "infoPointsName": "60",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-4686.21, -1713.25, -134.18],
                     "infoHoverText": "60"		
                 }				
 				
@@ -881,11 +881,11 @@ var dataJson = {
             "image": "60.jpg",
             "infoPoints": [{
                     "infoPointsName": "59",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-1811.23, -2018.28, 4194.28],
                     "infoHoverText": "59"					
                 }, {
                     "infoPointsName": "61",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [3548.73, -2902.97, -1985.93],
                     "infoHoverText": "61"		
                 }				
 				
@@ -896,11 +896,11 @@ var dataJson = {
             "image": "61.jpg",
             "infoPoints": [{
                     "infoPointsName": "60",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-3743.79, -2877.68, 1633.18],
                     "infoHoverText": "60"					
                 }, {
                     "infoPointsName": "62",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [2825.57, -1926.70, -3639.94],
                     "infoHoverText": "62"		
                 }				
 				
@@ -911,11 +911,11 @@ var dataJson = {
             "image": "62.jpg",
             "infoPoints": [{
                     "infoPointsName": "61",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [3323.54, -2064.30, 3102.08],
                     "infoHoverText": "61"					
                 }, {
                     "infoPointsName": "63",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-4613.88, -1788.16, 652.89],
                     "infoHoverText": "63"		
                 }				
 				
@@ -926,11 +926,11 @@ var dataJson = {
             "image": "63.jpg",
             "infoPoints": [{
                     "infoPointsName": "62",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-4627.63, -1791.71, -557.73],
                     "infoHoverText": "62"					
                 }, {
                     "infoPointsName": "64",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-2711.62, -1851.44, -3766.73],
                     "infoHoverText": "64"		
                 }				
 				
@@ -941,11 +941,11 @@ var dataJson = {
             "image": "64.jpg",
             "infoPoints": [{
                     "infoPointsName": "63",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [3457.52, -1535.32, -3262.14],
                     "infoHoverText": "63"					
                 }, {
                     "infoPointsName": "65",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-4650.71, -1274.93, 1285.10],
                     "infoHoverText": "65"		
                 }				
 				
@@ -956,11 +956,11 @@ var dataJson = {
             "image": "65.jpg",
             "infoPoints": [{
                     "infoPointsName": "64",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [4713.10, -1270.32, 1057.28],
                     "infoHoverText": "64"					
                 }, {
                     "infoPointsName": "66",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [3504.91, -1386.82, -3273.90],
                     "infoHoverText": "66"		
                 }				
 				
@@ -971,11 +971,11 @@ var dataJson = {
             "image": "66.jpg",
             "infoPoints": [{
                     "infoPointsName": "65",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-3005.61, -1475.43, 3701.86],
                     "infoHoverText": "65"					
                 }, {
                     "infoPointsName": "67",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-4600.49, -1736.03, -860.22],
                     "infoHoverText": "67"		
                 }				
 				
@@ -986,7 +986,7 @@ var dataJson = {
             "image": "67.jpg",
             "infoPoints": [{
                     "infoPointsName": "66",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [3052.07, -1521.66, 3647.49],
                     "infoHoverText": "66"					
                 }				
             ]
