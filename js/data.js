@@ -581,11 +581,11 @@ var dataJson = {
             "image": "40.jpg",
             "infoPoints": [{
                     "infoPointsName": "39",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [3351.04, -1332.86, 3449.26],
                     "infoHoverText": "39"					
                 }, {
                     "infoPointsName": "41",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-3858.74, -3171.26, -60.89],
                     "infoHoverText": "41"		
                 }				
 				
@@ -596,11 +596,11 @@ var dataJson = {
             "image": "41.jpg",
             "infoPoints": [{
                     "infoPointsName": "40",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [-125.89, -2655.93, 4227.58],
                     "infoHoverText": "40"					
                 }, {
                     "infoPointsName": "42",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [-3553.60, -2065.80, -2830.43],
                     "infoHoverText": "42"		
                 }				
 				
@@ -611,11 +611,11 @@ var dataJson = {
             "image": "42.jpg",
             "infoPoints": [{
                     "infoPointsName": "41",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [2289.40, -2759.87, 3472.31],
                     "infoHoverText": "41"					
                 }, {
                     "infoPointsName": "43",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [4562.42, -1996.21, -358.83],
                     "infoHoverText": "43"		
                 }				
 				
@@ -626,11 +626,11 @@ var dataJson = {
             "image": "43.jpg",
             "infoPoints": [{
                     "infoPointsName": "42",
-                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                "infoPointsCoordinates": [4537.76, -1886.09, -902.86],
                     "infoHoverText": "42"					
                 }, {
                     "infoPointsName": "44",
-                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                "infoPointsCoordinates": [2555.14, -3046.93, 3019.40],
                     "infoHoverText": "44"		
                 }				
 				
