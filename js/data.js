@@ -731,7 +731,7 @@ var dataJson = {
             "image": "50.jpg",
             "infoPoints": [{
                     "infoPointsName": "49",
-                    "infoPointsCoordinates": [-3798.55, -2266.38, -2322.34],
+                "infoPointsCoordinates": [-3798.55, -2266.38, -2322.34],
                     "infoHoverText": "49"					
                 }, {
                     "infoPointsName": "51",
@@ -746,11 +746,11 @@ var dataJson = {
             "image": "51.jpg",
             "infoPoints": [{
                     "infoPointsName": "50",
-                    "infoPointsCoordinates": [-3744.86, -2482.37, -2183.87],
+            "infoPointsCoordinates": [-3744.86, -2482.37, -2183.87],
                     "infoHoverText": "50"					
                 }, {
                     "infoPointsName": "52",
-                    "infoPointsCoordinates": [-1160.68, -3171.80, 3681.24],
+             "infoPointsCoordinates": [-1160.68, -3171.80, 3681.24],
                     "infoHoverText": "52"		
                 }				
 				
