@@ -668,7 +668,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "46",
-            "image": "46-1.jpg",
+            "image": "46-2.jpg",
             "infoPoints": [{
                     "infoPointsName": "45",
                 "infoPointsCoordinates": [-4038.55, -1845.42, 2290.23],
