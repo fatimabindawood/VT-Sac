@@ -1,7 +1,7 @@
 var dataJson = {
     "scenes": [{
             "sceneName": "1",
-            "image": "2.jpg",
+            "image": "1.jpg",
             "infoPoints": [{
                     "infoPointsName": "2",
                     "infoPointsCoordinates": [3707.66, -2791.30, 1838.14],
