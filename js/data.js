@@ -93,7 +93,7 @@ var dataJson = {
 		, 
 		{
             "sceneName": "8",
-            "image": "8-1.jpg",
+            "image": "8.jpg",
             "infoPoints": [{
                     "infoPointsName": "7",
                     "infoPointsCoordinates": [-3668.23, -785.46, -3305.29],
@@ -123,7 +123,7 @@ var dataJson = {
 		, 
 		{
             "sceneName": "10",
-            "image": "10-1.jpg",
+            "image": "10.jpg",
             "infoPoints": [{
                     "infoPointsName": "9",
                     "infoPointsCoordinates": [-2599.66, -2281.28, 3608.94],
@@ -170,7 +170,7 @@ var dataJson = {
 		, 
 		{
             "sceneName": "13",
-            "image": "13-1.jpg",
+            "image": "13.jpg",
             "infoPoints": [{
                     "infoPointsName": "12",
                     "infoPointsCoordinates": [1983.61, -1596.42, 4297.74],
@@ -186,7 +186,7 @@ var dataJson = {
 		, 
 		{
             "sceneName": "14",
-            "image": "14.jpg",
+            "image": "14-1.jpg",
             "infoPoints": [{
                     "infoPointsName": "13",
                     "infoPointsCoordinates": [-4241.44, -2176.06, 1485.69],
@@ -352,7 +352,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "25",
-            "image": "25-1.jpg",
+            "image": "25.jpg",
             "infoPoints": [{
                     "infoPointsName": "24",
                     "infoPointsCoordinates": [4345.08, -1441.85, -1996.40],
@@ -398,7 +398,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "28",
-            "image": "28-1.jpg",
+            "image": "28.jpg",
             "infoPoints": [{
                     "infoPointsName": "27",
                     "infoPointsCoordinates": [-4140.89, -2466.17, -1311.33],
@@ -473,7 +473,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "33",
-            "image": "33-1.jpg",
+            "image": "33.jpg",
             "infoPoints": [{
                     "infoPointsName": "32",
                     "infoPointsCoordinates": [4332.65, -1996.70, -1478.50],
@@ -503,7 +503,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "35",
-            "image": "35-1.jpg",
+            "image": "35.jpg",
             "infoPoints": [{
                     "infoPointsName": "34",
                     "infoPointsCoordinates": [-375.25, -3014.23, 3966.05],
@@ -548,7 +548,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "38",
-            "image": "38-1.jpg",
+            "image": "38.jpg",
             "infoPoints": [{
                     "infoPointsName": "37",
                     "infoPointsCoordinates": [3464.19, -2543.06, -2548.79],
@@ -563,7 +563,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "39",
-            "image": "39-1.jpg",
+            "image": "39.jpg",
             "infoPoints": [{
                     "infoPointsName": "38",
                     "infoPointsCoordinates": [2089.21, -4028.58, -2090.93],
@@ -593,7 +593,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "41",
-            "image": "41-1.jpg",
+            "image": "41.jpg",
             "infoPoints": [{
                     "infoPointsName": "40",
                 "infoPointsCoordinates": [-125.89, -2655.93, 4227.58],
@@ -608,7 +608,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "42",
-            "image": "42-1.jpg",
+            "image": "42.jpg",
             "infoPoints": [{
                     "infoPointsName": "41",
                 "infoPointsCoordinates": [2289.40, -2759.87, 3472.31],
@@ -653,7 +653,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "45",
-            "image": "45-1.jpg",
+            "image": "45.jpg",
             "infoPoints": [{
                     "infoPointsName": "44",
                 "infoPointsCoordinates": [-1659.30, -2256.58, 4135.10],
@@ -728,7 +728,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "50",
-            "image": "50-1.jpg",
+            "image": "50.jpg",
             "infoPoints": [{
                     "infoPointsName": "49",
                 "infoPointsCoordinates": [-3798.55, -2266.38, -2322.34],
@@ -908,7 +908,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "62",
-            "image": "62-1.jpg",
+            "image": "62.jpg",
             "infoPoints": [{
                     "infoPointsName": "61",
                 "infoPointsCoordinates": [3323.54, -2064.30, 3102.08],
