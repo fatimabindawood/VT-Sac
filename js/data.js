@@ -111,11 +111,11 @@ var dataJson = {
             "image": "9-1.jpg",
             "infoPoints": [{
                     "infoPointsName": "8",
-                    "infoPointsCoordinates": [-2058.06, -2039.94, -4063.36],
+                "infoPointsCoordinates": [3777.82, -1670.09, -2807.47],
                     "infoHoverText": "8"					
                 }, {
                     "infoPointsName": "10",
-                    "infoPointsCoordinates": [2750.69, -1715.23, 3801.19],
+                "infoPointsCoordinates": [-1131.84, -3054.57, 3784.51],
                     "infoHoverText": "10"		
                 }
             ]
@@ -141,11 +141,11 @@ var dataJson = {
             "image": "11-1.jpg",
             "infoPoints": [{
                     "infoPointsName": "10",
-                    "infoPointsCoordinates": [-4317.30, -2358.08, 866.10],
+                "infoPointsCoordinates": [2711.09, -2758.74, -3157.23],
                     "infoHoverText": "10"					
                 }, {
                     "infoPointsName": "12",
-                    "infoPointsCoordinates": [-1551.25, -1255.31, -4578.57],
+                "infoPointsCoordinates": [3632.66, -2064.71, 2733.59],
                     "infoHoverText": "12"		
                 }				
 				
@@ -177,7 +177,7 @@ var dataJson = {
                     "infoHoverText": "12"					
                 }, {
                     "infoPointsName": "14",
-                    "infoPointsCoordinates": [-2155.72, -1395.74, -4278.48],
+                "infoPointsCoordinates": [3984.60, -2136.33, -2114.88],
                     "infoHoverText": "14"		
                 }				
 				
@@ -189,11 +189,11 @@ var dataJson = {
             "image": "14-1.jpg",
             "infoPoints": [{
                     "infoPointsName": "13",
-                    "infoPointsCoordinates": [-4241.44, -2176.06, 1485.69],
+                "infoPointsCoordinates": [-988.68, -2937.74, -3917.95],
                     "infoHoverText": "13"					
                 }, {
                     "infoPointsName": "15",
-                    "infoPointsCoordinates": [-4725.27, -1089.07, -1184.05],
+                "infoPointsCoordinates": [-2342.21, -1240.95, -4232.38],
                     "infoHoverText": "15"		
                 }				
 				
@@ -201,7 +201,7 @@ var dataJson = {
         }, 
 		{
             "sceneName": "15",
-            "image": "15-1.jpg",
+            "image": "15.jpg",
             "infoPoints": [{
                     "infoPointsName": "14",
                     "infoPointsCoordinates": [3227.20, -899.84, 3702.46],
