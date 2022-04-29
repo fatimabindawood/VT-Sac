@@ -87,6 +87,10 @@ var dataJson = {
             "infoPointsName": "8",
             "infoPointsCoordinates": [-4859.29, -1175.52, -4.18],
             "infoHoverText": "8"
+        }, {
+            "infoPointsName": "71",
+            "infoPointsCoordinates": [3617.90, -517.83, 3400.73],
+            "infoHoverText": "71"
         }
         ]
     }
