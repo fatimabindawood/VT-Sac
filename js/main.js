@@ -113,7 +113,7 @@ var InfoPoint = function()
 		//this.infospot.addHoverText( iconName );
 		this.infospot.position.set(this.infoLink.infoPointsCoordinates[0], this.infoLink.infoPointsCoordinates[1], this.infoLink.infoPointsCoordinates[2]);
 		//add here
-		this.infospot.addHoverElement(document.getElementById('Mohammed-Hammad'), 100);
+		this.infospot.addHoverElement(document.getElementById('Mohammed-Hammad'), 50);
 		var shipdeck = this.shipdeckObj;
 		this.infospot.addEventListener( 'click', function(){
 			$(".panolens-infospot").css("display","none");
