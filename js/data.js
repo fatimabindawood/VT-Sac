@@ -18,7 +18,7 @@ var dataJson = {
             "infoPointsName": "3",
             "infoPointsCoordinates": [2034.80, -1173.27, 4410.41],
             "infoHoverText": "3"
-        }
+            }
         ]
     }, {
         "sceneName": "3",
@@ -31,7 +31,15 @@ var dataJson = {
             "infoPointsName": "4",
             "infoPointsCoordinates": [-1362.11, -2494.53, 4108.05],
             "infoHoverText": "4"
-        }
+            }
+            ,
+            {
+                "infoPointsName": "71",
+                "infoPointsCoordinates": [-3801.79, -1558.98, 2842.91],
+                "infoHoverText": "71",
+                "hoverImage": "Dia-al-Azzawi1.png"
+            }
+
         ]
     },
     {
