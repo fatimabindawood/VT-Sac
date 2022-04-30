@@ -91,7 +91,8 @@ var dataJson = {
             "infoPointsName": "71",
             "infoPointsCoordinates": [3617.90, -517.83, 3400.73],
             "infoHoverText": "71"
-        }
+            "hoverImage": "hover2.png"
+            }
         ]
     }
         ,

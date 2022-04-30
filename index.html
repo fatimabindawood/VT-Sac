@@ -43,6 +43,20 @@
 		height: 5%;
 		display:none;
 	}
+
+	.infoContainerStyle{
+		width:200px;
+		height:266px;
+		background:white;
+		display: none;
+		box-shadow: 1px 1px 24px 5px rgba(0,0,0,0.75);
+	}
+	#imageHover {
+	  width: 100%;
+	  height: 100%;
+	  object-fit: cover;
+	}
+
 	
     </style>
 	<script src='./js/jquery.min.js'></script>
@@ -69,10 +83,9 @@
 </div>
 
 <!-- add here -->
-<div id="Mohammed-Hammad" style="display:none;">
-<img src="Logo/Mohammed-Hammad.png"/>
+<div id="containerHover" class="infoContainerStyle">
+	<img id="imageHover" />
 </div>
-
 
 
 

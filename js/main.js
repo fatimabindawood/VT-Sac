@@ -113,13 +113,19 @@ var InfoPoint = function()
 		//this.infospot.addHoverText( iconName );
 		this.infospot.position.set(this.infoLink.infoPointsCoordinates[0], this.infoLink.infoPointsCoordinates[1], this.infoLink.infoPointsCoordinates[2]);
 		//add here
-		this.infospot.addHoverElement(document.getElementById('Mohammed-Hammad'), 30);
-		var shipdeck = this.shipdeckObj;
-		this.infospot.addEventListener( 'click', function(){
-			$(".panolens-infospot").css("display","none");
-			shipdeck.LoadImagePanorama(iconName);
-		});
-		
+		if (this.infoLink.hasOwnProperty("hoverImage")) {
+			$("#imageHover").attr("src", './HoverImages/' + this.infoLink.hoverImage);
+			this.infospot.addHoverElement(document.getElementById('containerHover'), 200);
+		}
+		else {
+			var shipdeck = this.shipdeckObj;
+			this.infospot.addEventListener('click', function () {
+				console.log("sdsdsdsdsdsd");
+				$(".panolens-infospot").css("display", "none");
+				shipdeck.LoadImagePanorama(iconName);
+			});
+		}
+
 		this.panorama.add(this.infospot);
 	}
 }
