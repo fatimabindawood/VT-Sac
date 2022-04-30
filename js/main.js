@@ -125,7 +125,6 @@ var InfoPoint = function()
 				shipdeck.LoadImagePanorama(iconName);
 			});
 		}
-
 		this.panorama.add(this.infospot);
 	}
 }
