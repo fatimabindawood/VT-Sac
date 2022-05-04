@@ -750,7 +750,22 @@ var dataJson = {
             "infoPointsName": "34",
             "infoPointsCoordinates": [-4308.87, -2491.20, 424.78],
             "infoHoverText": "34"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4230.14, -947.24, -2480.90],
+                "infoHoverText": "71",
+                "hoverImage": "Taysir-Batniji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-90.51, -8.30, 4994.93],
+                "infoHoverText": "71",
+                "hoverImage": "Bashaer-Hawsawi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4830.72, -276.30, -1221.67],
+                "infoHoverText": "71",
+                "hoverImage": "Obadah-AlJefri.png"
+            }
 
         ]
     },
@@ -765,7 +780,27 @@ var dataJson = {
             "infoPointsName": "35",
             "infoPointsCoordinates": [2725.85, -2375.00, -3441.75],
             "infoHoverText": "35"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [799.84, 379.22, -4913.64],
+                "infoHoverText": "71",
+                "hoverImage": "Asma-Bahmim.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-2948.90, 760.38, 3961.22],
+                "infoHoverText": "71",
+                "hoverImage": "Taysir-Batniji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4566.08, 132.62, -2023.46],
+                "infoHoverText": "71",
+                "hoverImage": "Bashaer-Hawsawi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4932.21, 792.11, -81.27],
+                "infoHoverText": "71",
+                "hoverImage": "Obadah-AlJefri.png"
+            }
 
         ]
     },
@@ -780,7 +815,27 @@ var dataJson = {
             "infoPointsName": "36",
             "infoPointsCoordinates": [2503.51, -1615.15, -4005.68],
             "infoHoverText": "36"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-1264.10, 375.88, -4815.30],
+                "infoHoverText": "71",
+                "hoverImage": "Asma-Bahmim.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-1429.84, 646.99, 4739.06],
+                "infoHoverText": "71",
+                "hoverImage": "Taysir-Batniji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4920.54, 70.34, 833.78],
+                "infoHoverText": "71",
+                "hoverImage": "Bashaer-Hawsawi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [3213.19, 421.74, 3798.71],
+                "infoHoverText": "71",
+                "hoverImage": "Obadah-AlJefri.png"
+            }
 
         ]
     },
@@ -795,7 +850,22 @@ var dataJson = {
             "infoPointsName": "37",
             "infoPointsCoordinates": [-2518.24, -3628.20, -2333.34],
             "infoHoverText": "37"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [2106.83, 154.99, 4523.63],
+                "infoHoverText": "71",
+                "hoverImage": "Asma-Bahmim.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4494.46, 214.85, 2158.92],
+                "infoHoverText": "71",
+                "hoverImage": "Bashaer-Hawsawi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [1644.56, 2018.36, -4258.23],
+                "infoHoverText": "71",
+                "hoverImage": "Obadah-AlJefri.png"
+            }
 
         ]
     },
@@ -810,7 +880,17 @@ var dataJson = {
             "infoPointsName": "38",
             "infoPointsCoordinates": [-3081.31, -2800.39, 2760.69],
             "infoHoverText": "38"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4946.59, 632.28, 183.08],
+                "infoHoverText": "71",
+                "hoverImage": "Asma-Bahmim.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [2554.84, 1190.44, -4122.22],
+                "infoHoverText": "71",
+                "hoverImage": "Bashaer-Hawsawi.png"
+            }
 
         ]
     },
@@ -825,7 +905,17 @@ var dataJson = {
             "infoPointsName": "39",
             "infoPointsCoordinates": [3708.60, -1379.69, 3040.15],
             "infoHoverText": "39"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4479.54, -569.16, -2126.80],
+                "infoHoverText": "71",
+            "hoverImage": "Sadik-Kwaish-Alfraji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4409.37, -1030.89, 2100.24],
+                "infoHoverText": "71",
+                "hoverImage": "Sadik-Kwaish-Alfraji.png"
+            }
 
         ]
     },
@@ -840,7 +930,17 @@ var dataJson = {
             "infoPointsName": "40",
             "infoPointsCoordinates": [398.29, -1939.33, -4586.58],
             "infoHoverText": "40"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [1215.53, -91.25, -4839.88],
+                "infoHoverText": "71",
+                "hoverImage": "Sadik-Kwaish-Alfraji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-79.24, -1864.60, 4633.25],
+                "infoHoverText": "71",
+                "hoverImage": "Sadik-Kwaish-Alfraji.png"
+            }
 
         ]
     },
@@ -855,7 +955,22 @@ var dataJson = {
             "infoPointsName": "41",
             "infoPointsCoordinates": [-3858.74, -3171.26, -60.89],
             "infoHoverText": "41"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-2683.58, -484.26, -4179.60],
+                "infoHoverText": "71",
+                "hoverImage": "Sadik-Kwaish-Alfraji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [3966.84, -675.44, 2957.91],
+                "infoHoverText": "71",
+                "hoverImage": "Sadik-Kwaish-Alfraji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4874.29, -166.93, 1075.63],
+                "infoHoverText": "71",
+            "hoverImage": "Catalina-Swinburn.png"
+            }
 
         ]
     },
@@ -870,7 +985,17 @@ var dataJson = {
             "infoPointsName": "42",
             "infoPointsCoordinates": [-3553.60, -2065.80, -2830.43],
             "infoHoverText": "42"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4878.06, -76.31, -1075.31],
+                "infoHoverText": "71",
+                "hoverImage": "Sadik-Kwaish-Alfraji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-2897.58, -120.96, -4066.28],
+                "infoHoverText": "71",
+                "hoverImage": "Catalina-Swinburn.png"
+            }
 
         ]
     },
@@ -885,7 +1010,32 @@ var dataJson = {
             "infoPointsName": "43",
             "infoPointsCoordinates": [3140.09, -1964.13, -3350.75],
             "infoHoverText": "43"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [3229.97, -132.48, 3802.71],
+                "infoHoverText": "71",
+                "hoverImage": "Sadik-Kwaish-Alfraji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [2806.25, 1707.19, -3761.21],
+                "infoHoverText": "71",
+                "hoverImage": "Catalina-Swinburn.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4814.22, 573.92, 1182.72],
+                "infoHoverText": "71",
+            "hoverImage": "Badr-Ali.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-2281.79, -1598.89, 4144.79],
+                "infoHoverText": "71",
+            "hoverImage": "Muhannad-Shono.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4992.71, -159.79, -19.36],
+                "infoHoverText": "71",
+            "hoverImage": "Aisha-Khalid.png"
+            }
 
         ]
     },
@@ -900,7 +1050,27 @@ var dataJson = {
             "infoPointsName": "44",
             "infoPointsCoordinates": [2759.78, -1961.23, 3672.76],
             "infoHoverText": "44"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4588.68, -62.34, 1972.28],
+                "infoHoverText": "71",
+                "hoverImage": "Catalina-Swinburn.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4916.04, -243.62, 818.72],
+                "infoHoverText": "71",
+                "hoverImage": "Badr-Ali.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [3960.96, -586.58, -2981.87],
+                "infoHoverText": "71",
+                "hoverImage": "Muhannad-Shono.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-3911.57, -163.39, -3093.62],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }
 
         ]
     },
@@ -915,7 +1085,17 @@ var dataJson = {
             "infoPointsName": "45",
             "infoPointsCoordinates": [4468.94, -1723.57, -1415.45],
             "infoHoverText": "45"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4914.75, -791.48, 416.76],
+                "infoHoverText": "71",
+                "hoverImage": "Badr-Ali.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [1113.39, -1052.52, -4751.72],
+                "infoHoverText": "71",
+            "hoverImage": "Nazar-Yahya.png"
+            }
 
         ]
     },
@@ -930,7 +1110,37 @@ var dataJson = {
             "infoPointsName": "46",
             "infoPointsCoordinates": [-709.36, -1646.89, -4657.63],
             "infoHoverText": "46"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4697.15, -1677.39, -177.87],
+                "infoHoverText": "71",
+                "hoverImage": "Nazar-Yahya.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-2880.88, -1546.25, -3777.08],
+                "infoHoverText": "71",
+            "hoverImage": "Ghassan-Ghaib.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-761.74, -538.04, -4901.72],
+                "infoHoverText": "71",
+            "hoverImage": "Hussein-AlMohasen.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-3638.51, -887.26, 3306.41],
+                "infoHoverText": "71",
+            "hoverImage": "Lujain-Faqera.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [3840.25, -1303.83, -2911.52],
+                "infoHoverText": "71",
+            "hoverImage": "Shadia-Alem.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4978.84, 15.73, 392.04],
+                "infoHoverText": "71",
+            "hoverImage": "Dia-al-Azzawi3.png"
+            }
 
         ]
     },
@@ -945,7 +1155,28 @@ var dataJson = {
             "infoPointsName": "47",
             "infoPointsCoordinates": [-4257.25, -1143.15, 2349.67],
             "infoHoverText": "47"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4662.38, -1422.40, 1081.11],
+                "infoHoverText": "71",
+                "hoverImage": "Nazar-Yahya.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-2986.62, -552.94, -3962.23],
+                "infoHoverText": "71",
+            "hoverImage": "Dia-al-Azzawi2.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4142.75, -1458.20, -2383.35],
+                "infoHoverText": "71",
+                "hoverImage": "Hussein-AlMohasen.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-352.84, -1196.22, 4835.18],
+                "infoHoverText": "71",
+                "hoverImage": "Shadia-Alem.png"
+            }
+
 
         ]
     },
@@ -960,7 +1191,22 @@ var dataJson = {
             "infoPointsName": "48",
             "infoPointsCoordinates": [-3466.61, -1501.77, 3266.42],
             "infoHoverText": "48"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-347.80, -498.12, -4953.83],
+                "infoHoverText": "71",
+                "hoverImage": "Badr-Ali.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4204.63, 24.32, -2691.50],
+                "infoHoverText": "71",
+                "hoverImage": "Muhannad-Shono.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [2145.73, -1015.41, -4389.64],
+                "infoHoverText": "71",
+                "hoverImage": "Lujain-Faqera.png"
+            }
 
         ]
     },
@@ -975,7 +1221,17 @@ var dataJson = {
             "infoPointsName": "49",
             "infoPointsCoordinates": [-3415.26, -3056.60, -1987.78],
             "infoHoverText": "49"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-87.87, -595.09, 4955.98],
+                "infoHoverText": "71",
+                "hoverImage": "Catalina-Swinburn.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-3610.28, 1.80, -3451.00],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }
 
         ]
     },
@@ -990,7 +1246,12 @@ var dataJson = {
             "infoPointsName": "50",
             "infoPointsCoordinates": [-3706.52, -2323.89, 2405.65],
             "infoHoverText": "50"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-1921.56, -145.55, -4604.65],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }
 
         ]
     },
@@ -1005,8 +1266,22 @@ var dataJson = {
             "infoPointsName": "51",
             "infoPointsCoordinates": [3786.42, - 2940.61, 1404.40],
             "infoHoverText": "51"
-        }
-
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4520.57, -738.03, 1999.55],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4443.94, 126.57, 2265.68],
+                "infoHoverText": "71",
+            "hoverImage": "Imran-Qureshi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [1306.14, -403.83, 4801.96],
+                "infoHoverText": "71",
+                "hoverImage": "Imran-Qureshi.png"
+            }
         ]
     },
     {
@@ -1020,7 +1295,22 @@ var dataJson = {
             "infoPointsName": "52",
             "infoPointsCoordinates": [-1160.68, -3171.80, 3681.24],
             "infoHoverText": "52"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [3802.68, -84.66, 3233.00],
+                "infoHoverText": "71",
+                "hoverImage": "Imran-Qureshi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-1222.26, -736.92, 4783.68],
+                "infoHoverText": "71",
+                "hoverImage": "Imran-Qureshi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4230.23, -692.33, 2560.46],
+                "infoHoverText": "71",
+                "hoverImage": "Imran-Qureshi.png"
+            }
 
         ]
     },
@@ -1035,7 +1325,22 @@ var dataJson = {
             "infoPointsName": "53",
             "infoPointsCoordinates": [2217.49, -2043.24, 3980.42],
             "infoHoverText": "53"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4039.21, -697.96, 2853.37],
+                "infoHoverText": "71",
+                "hoverImage": "Imran-Qureshi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [2335.88, -863.32, -4326.66],
+                "infoHoverText": "71",
+                "hoverImage": "Imran-Qureshi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-3121.21, -193.78, -3887.69],
+                "infoHoverText": "71",
+                "hoverImage": "Imran-Qureshi.png"
+            }
 
         ]
     },
@@ -1050,7 +1355,17 @@ var dataJson = {
             "infoPointsName": "54",
             "infoPointsCoordinates": [3168.27, -2709.49, -2749.67],
             "infoHoverText": "54"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4483.74, 577.46, -2116.40],
+                "infoHoverText": "71",
+                "hoverImage": "Imran-Qureshi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4937.27, -737.97, -122.11],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }
 
         ]
     },
@@ -1065,7 +1380,12 @@ var dataJson = {
             "infoPointsName": "55",
             "infoPointsCoordinates": [2797.26, -1197.40, 3962.45],
             "infoHoverText": "55"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [1903.97, -634.57, 4570.36],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }
 
         ]
     },
@@ -1080,7 +1400,17 @@ var dataJson = {
             "infoPointsName": "56",
             "infoPointsCoordinates": [-196.68, -1939.53, 4597.05],
             "infoHoverText": "56"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [3933.66, -1772.12, 2508.22],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4575.90, -1118.24, 1654.58],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }
 
         ]
     },
@@ -1095,7 +1425,27 @@ var dataJson = {
             "infoPointsName": "57",
             "infoPointsCoordinates": [3454.16, -2802.37, -2265.27],
             "infoHoverText": "57"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-2681.86, -1144.74, -4052.85],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-3598.79, -1109.82, 3283.60],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-1223.33, -85.11, 4838.04],
+                "infoHoverText": "71",
+                "hoverImage": "Imran-Qureshi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [1773.35, -25.74, 4666.58],
+                "infoHoverText": "71",
+                "hoverImage": "Catalina-Swinburn.png"
+            }
 
         ]
     },
@@ -1110,7 +1460,17 @@ var dataJson = {
             "infoPointsName": "58",
             "infoPointsCoordinates": [-3190.59, -1808.41, 3387.99],
             "infoHoverText": "58"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4460.65, -434.05, 2199.05],
+                "infoHoverText": "71",
+                "hoverImage": "Aisha-Khalid.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4972.15, -177.40, -398.39],
+                "infoHoverText": "71",
+                "hoverImage": "Imran-Qureshi.png"
+            }
 
         ]
     },
@@ -1140,7 +1500,17 @@ var dataJson = {
             "infoPointsName": "60",
             "infoPointsCoordinates": [-4686.21, -1713.25, -134.18],
             "infoHoverText": "60"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4828.94, -1225.14, 316.39],
+                "infoHoverText": "71",
+                "hoverImage": "Taysir-Batniji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-419.15, -41.13, -4976.42],
+                "infoHoverText": "71",
+                "hoverImage": "Bashaer-Hawsawi.png"
+            }
 
         ]
     },
@@ -1155,7 +1525,12 @@ var dataJson = {
             "infoPointsName": "61",
             "infoPointsCoordinates": [3548.73, -2902.97, -1985.93],
             "infoHoverText": "61"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [342.30, -2445.36, -4338.86],
+                "infoHoverText": "71",
+                "hoverImage": "Taysir-Batniji.png"
+            }
 
         ]
     },
@@ -1170,7 +1545,12 @@ var dataJson = {
             "infoPointsName": "62",
             "infoPointsCoordinates": [2825.57, -1926.70, -3639.94],
             "infoHoverText": "62"
-        }
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4435.32, -2190.38, -670.22],
+                "infoHoverText": "71",
+                "hoverImage": "Taysir-Batniji.png"
+            }
 
         ]
     },
