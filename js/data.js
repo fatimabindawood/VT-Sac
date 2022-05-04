@@ -687,7 +687,13 @@ var dataJson = {
             "infoPointsCoordinates": [-4700.45, 491.61, 1612.23],
                 "infoHoverText": "71",
                 "hoverImage": "Obadah-AlJefri.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-2568.02, -895.16, 4185.89],
+                "infoHoverText": "71",
+            "hoverImage": "Manal-AlDowayan.png"
             }
+
 
 
         ]
@@ -719,7 +725,13 @@ var dataJson = {
             "infoPointsCoordinates": [-4465.87, 496.65, -2172.52],
                 "infoHoverText": "71",
                 "hoverImage": "Obadah-AlJefri.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-4428.63, -1388.08, 1837.50],
+                "infoHoverText": "71",
+                "hoverImage": "Manal-AlDowayan.png"
             }
+
 
         ]
     },
@@ -759,7 +771,13 @@ var dataJson = {
             "infoPointsCoordinates": [-2071.11, 662.67, 4495.51],
                 "infoHoverText": "71",
                 "hoverImage": "Obadah-AlJefri.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [6.96, -1291.45, 4826.45],
+                "infoHoverText": "71",
+                "hoverImage": "Manal-AlDowayan.png"
             }
+
 
         ]
     },
@@ -799,6 +817,11 @@ var dataJson = {
             "infoPointsCoordinates": [-4375.67, 242.01, 2389.70],
                 "infoHoverText": "71",
                 "hoverImage": "Taysir-Batniji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-3000.60, -2792.71, 2850.15],
+                "infoHoverText": "71",
+                "hoverImage": "Manal-AlDowayan.png"
             }
 
         ]
@@ -839,6 +862,11 @@ var dataJson = {
             "infoPointsCoordinates": [4044.52, 800.46, -2820.26],
                 "infoHoverText": "71",
                 "hoverImage": "Taysir-Batniji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-3785.02, -2243.93, 2362.16],
+                "infoHoverText": "71",
+                "hoverImage": "Manal-AlDowayan.png"
             }
 
         ]
@@ -874,6 +902,11 @@ var dataJson = {
             "infoPointsCoordinates": [4839.60, 1003.64, -688.26],
                 "infoHoverText": "71",
                 "hoverImage": "Obadah-AlJefri.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [1585.51, -532.42, -4705.54],
+                "infoHoverText": "71",
+                "hoverImage": "Manal-AlDowayan.png"
             }
 
         ]
@@ -980,6 +1013,11 @@ var dataJson = {
             "infoPointsCoordinates": [4932.21, 792.11, -81.27],
                 "infoHoverText": "71",
                 "hoverImage": "Obadah-AlJefri.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [357.09, -287.38, -4969.99],
+                "infoHoverText": "71",
+                "hoverImage": "Manal-AlDowayan.png"
             }
 
         ]
@@ -1015,6 +1053,11 @@ var dataJson = {
             "infoPointsCoordinates": [3213.19, 421.74, 3798.71],
                 "infoHoverText": "71",
                 "hoverImage": "Obadah-AlJefri.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-1660.33, -585.09, -4670.15],
+                "infoHoverText": "71",
+                "hoverImage": "Manal-AlDowayan.png"
             }
 
         ]
@@ -1050,6 +1093,11 @@ var dataJson = {
             "infoPointsCoordinates": [3896.79, -247.97, -3106.59],
                 "infoHoverText": "71",
                 "hoverImage": "Taysir-Batniji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [1320.00, -1142.06, 4677.94],
+                "infoHoverText": "71",
+                "hoverImage": "Manal-AlDowayan.png"
             }
 
         ]
@@ -1075,7 +1123,13 @@ var dataJson = {
             "infoPointsCoordinates": [2554.84, 1190.44, -4122.22],
                 "infoHoverText": "71",
                 "hoverImage": "Bashaer-Hawsawi.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4858.85, -714.41, -899.11],
+                "infoHoverText": "71",
+                "hoverImage": "Manal-AlDowayan.png"
             }
+
 
         ]
     },
