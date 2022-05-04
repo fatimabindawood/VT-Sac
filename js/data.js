@@ -20,9 +20,9 @@ var dataJson = {
             "infoHoverText": "3"
             },
             {
-                "infoPointsName": " ",
+                "infoPointsName": "71",
                 "infoPointsCoordinates": [-2815.58, -864.08, 4032.49],
-                "infoHoverText": " ",
+                "infoHoverText": "71",
                 "hoverImage": "Dia-al-Azzawi1.png"
             }
         ]
