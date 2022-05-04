@@ -1,20 +1,20 @@
 var dataJson = {
-    "scenes": [/*{
-        "sceneName": "0",
+    "scenes": [{
+        "sceneName": "1",
         "image": "1.jpg",
         "infoPoints": [{
             "infoPointsName": "2",
             "infoPointsCoordinates": [-4437.36, -2296.52, -53.25],
             "infoHoverText": "2",
         }]
-    },*/ {
+    }, {
         "sceneName": "2",
         "image": "2.jpg",
-        "infoPoints": [/*{
+        "infoPoints": [{
             "infoPointsName": "1",
             "infoPointsCoordinates": [3995.09, -2344.11, -1867.45],
             "infoHoverText": "1"
-        },*/ {
+        }, {
             "infoPointsName": "3",
             "infoPointsCoordinates": [2034.80, -1173.27, 4410.41],
             "infoHoverText": "3"
