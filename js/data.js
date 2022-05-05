@@ -1248,7 +1248,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4838.55, -673.60, -1046.41],
                 "infoHoverText": "71",
-                "hoverImage": "Ghassan-Ghaib.png"
+            "hoverImage": "Nazar-Yahya.png"
             }
 
         ]
@@ -1289,6 +1289,16 @@ var dataJson = {
             "infoPointsCoordinates": [4992.71, -159.79, -19.36],
                 "infoHoverText": "71",
             "hoverImage": "Aisha-Khalid.png"
+            },{
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-1810.45, -777.44, -4588.17],
+                "infoHoverText": "71",
+                "hoverImage": "Nazar-Yahya.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [-53.43, -541.81, -4964.09],
+                "infoHoverText": "71",
+                "hoverImage": "Ghassan-Ghaib.png"
             }
 
         ]
@@ -1384,6 +1394,11 @@ var dataJson = {
             "infoPointsCoordinates": [4967.88, 275.50, -406.25],
                 "infoHoverText": "71",
                 "hoverImage": "Shadia-Alem.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [308.14, -1556.34, -4734.98],
+                "infoHoverText": "71",
+                "hoverImage": "Ghassan-Ghaib.png"
             }
 
         ]
@@ -1530,6 +1545,11 @@ var dataJson = {
             "infoPointsCoordinates": [-4918.51, -876.27, -23.10],
                 "infoHoverText": "71",
                 "hoverImage": "Sadik-Kwaish-Alfraji.png"
+            }, {
+                "infoPointsName": "71",
+            "infoPointsCoordinates": [4300.99, -754.19, 2429.07],
+                "infoHoverText": "71",
+                "hoverImage": "Ghassan-Ghaib.png"
             }
 
         ]
