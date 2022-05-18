@@ -92,7 +92,8 @@ var InfoPoint = function () {
 		this.createInfoSpot();
 	}
 
-	this.createInfoSpot = function () {
+	this.createInfoSpot = function ()
+	{
 		var iconName = this.infoLink.infoPointsName;
 		this.infospot = new PANOLENS.Infospot(this.infoPointSize, imageIconArray[iconName]);
 		//this.infospot.addHoverText( iconName );
@@ -115,7 +116,7 @@ var InfoPoint = function () {
 				shipdeck.LoadImagePanorama(iconName);
 			});
 		}
-		this.panorama.add(this.infospot); 
+		this.panorama.add(this.infospot);
 	}
 }
 
