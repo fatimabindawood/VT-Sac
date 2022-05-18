@@ -24,7 +24,6 @@ var dataJson = {
                 "infoPointsCoordinates": [-2795.74, -1032.60, 4005.46],
                 "infoHoverText": "71",
                 "hoverImage": { "images": ["Dia-al-Azzawi1.png","hover1.jpg", "Dia-al-Azzawi1.png"], "text": "" }
-              //  "hoverImage": "Dia-al-Azzawi1.png"
             }
         ]
     }, {
