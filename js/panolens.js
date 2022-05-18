@@ -2164,6 +2164,7 @@ function EnableFullScreen(isFullscreen) {
 				var { left, right, style } = element;
 
 				if (this.mode === MODES.CARDBOARD || this.mode === MODES.STEREO) {
+					console.log("-------7-------------");
 					style.display = 'none';
 					left.style.display = 'block';
 					right.style.display = 'block';
@@ -2173,6 +2174,7 @@ function EnableFullScreen(isFullscreen) {
 					element._height = left.clientHeight;
 
 				} else {
+					console.log("-------8-------------");
 					style.display = 'block';
 					if (left) { left.style.display = 'none'; }
 					if (right) { right.style.display = 'none'; }
