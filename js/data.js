@@ -23,7 +23,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-2795.74, -1032.60, 4005.46],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["hover2.jpg","Dia-al-Azzawi1.png"]}
+                "hoverImage": { "images": ["hover1.png", "Dia-al-Azzawi1.png", "Dia-al-Azzawi1-AR.png"]}
             }
         ]
     }, {
@@ -43,7 +43,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-3782.96, -1557.83, 2866.83],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["hover2.jpg"] }
+                "hoverImage": { "images": ["hover1.png", "Dia-al-Azzawi1.png", "Dia-al-Azzawi1-AR.png"] }
             }
 
         ]
