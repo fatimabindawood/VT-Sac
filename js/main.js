@@ -100,7 +100,7 @@ var InfoPoint = function () {
 		this.infospot.position.set(this.infoLink.infoPointsCoordinates[0], this.infoLink.infoPointsCoordinates[1], this.infoLink.infoPointsCoordinates[2]);
 		if (this.infoLink.hasOwnProperty("hoverImage"))
 		{
-			
+			containerHover == 0;
 			for (var i = 0; i < this.infoLink.hoverImage.images.length; i++)
 			{
 				$('#mainSlider').append('<img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">');
@@ -108,13 +108,13 @@ var InfoPoint = function () {
 
 			this.infospot.addHoverElement(document.getElementById('containerHover'), 200);
 		}
-		else return;/* {
+		else {
 			var shipdeck = this.shipdeckObj;
 			this.infospot.addEventListener('click', function () {
 				$(".panolens-infospot").css("display", "none");
 				shipdeck.LoadImagePanorama(iconName);
 			});
-		}*/
+		}
 		this.panorama.add(this.infospot);
 	}
 }
