@@ -98,24 +98,23 @@ var InfoPoint = function () {
 		this.infospot = new PANOLENS.Infospot(this.infoPointSize, imageIconArray[iconName]);
 		//this.infospot.addHoverText( iconName );
 		this.infospot.position.set(this.infoLink.infoPointsCoordinates[0], this.infoLink.infoPointsCoordinates[1], this.infoLink.infoPointsCoordinates[2]);
-		if (this.infoLink.hasOwnProperty("hoverImage")) {
-			for (var i = 0; i < this.infoLink.hoverImage.images.length; i++) {
+		if (this.infoLink.hasOwnProperty("hoverImage"))
+		{
+			infospot == 0;
+			for (var i = 0; i < this.infoLink.hoverImage.images.length; i++)
+			{
 				$('#mainSlider').append('<img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">');
 			}
 
-			//$('#mainSlider').prepend('<img class="mySlides" src="./HoverImages/hover1.jpg" style="width:100%">')
-
-			// <img class="mySlides" src="./HoverImages/hover1.jpg" style="width:100%">
-			//$("#imageHover").attr("src",'./HoverImages/'+this.infoLink.hoverImage);
 			this.infospot.addHoverElement(document.getElementById('containerHover'), 200);
 		}
-		else {
+		else return;/* {
 			var shipdeck = this.shipdeckObj;
 			this.infospot.addEventListener('click', function () {
 				$(".panolens-infospot").css("display", "none");
 				shipdeck.LoadImagePanorama(iconName);
 			});
-		}
+		}*/
 		this.panorama.add(this.infospot);
 	}
 }
