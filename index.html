@@ -32,7 +32,7 @@
 			}
 
 		.centerDiv {
-			#background:url(Logo/shipdeck.jpg) no-repeat 20% 30%;
+			background:url(Logo/shipdeck.jpg) no-repeat 20% 30%;
 			background-size: cover;
 			background: white;
 		}
@@ -117,7 +117,7 @@
 
 		function showDivs(n) {
 			var i;
-			var x = document.getElementsByClassName("mySlides");
+			var x = document.querySelector("mySlides");
 			if (n > x.length) { slideIndex = 1 }
 			if (n < 1) { slideIndex = x.length }
 			for (i = 0; i < x.length; i++) {
@@ -125,6 +125,7 @@
 			}
 			x[slideIndex - 1].style.display = "block";
 		}
+	
 	</script>
 
 	<script>
