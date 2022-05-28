@@ -126,12 +126,12 @@
 		function showDivs(n) {
 			var i;
 			var x = document.getElementsByClassName("mySlides");
-			if (n > x.length) { slideIndex = 1}
+			if (n > x.length) { slideIndex = 0}
 			if (n < 1) { slideIndex = x.length }
 			for (i = 2; i < x.length; i++) {
-				x[i].css.display("display", "none");
+				x[i].style.display = "none";
 			}
-			x[slideIndex].css.display("display", "none");
+			x[slideIndex].style.display = "block";
 		}
 
 	</script>
