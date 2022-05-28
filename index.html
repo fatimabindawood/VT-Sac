@@ -125,13 +125,13 @@
 
 		function showDivs(n) {
 			var i;
-			var x = document.querySelector("mySlides");
-			if (n > x.indexOf) { slideIndex = 1}
-			if (n < 1) { slideIndex = x.indexOf }
-			for (i = 2; i < x.indexOf; i++) {
-				x[i].style.display = "none";
+			var x = document.getElementsByClassName("mySlides");
+			if (n > x.length) { slideIndex = 1}
+			if (n < 1) { slideIndex = x.length }
+			for (i = 2; i < x.length; i++) {
+				x[i].write( "<img style='display:none;'>");
 			}
-			x[slideIndex].style.display = "block";
+			x[slideIndex].write( "<img style='display:block;'>");
 		}
 
 	</script>
