@@ -89,7 +89,6 @@
 	<div id="containerHover" class="infoContainerStyle">
 		<!-- <img id="imageHover" /> -->
 		<div id="mainSlider" class="w3-content w3-display-container">
-			<img class="mySlides" src="" style="width:100%">
 			<!-- <img class="mySlides" src="./HoverImages/hover1.jpg" style="width:100%">
 	<img class="mySlides" src="./HoverImages/hover2.png" style="width:100%">
 	<img class="mySlides" src="./HoverImages/hover3.jpg" style="width:100%"> -->
@@ -118,7 +117,7 @@
 		function showDivs(n) {
 			var i;
 			var x = document.querySelector("mySlides");
-			if (n > x.length) { slideIndex = 3 }
+			if (n > x.length) { slideIndex = 2 }
 			if (n < 1) { slideIndex = x.length }
 			for (i = 0; i < x.length; i++) {
 				x[i].style.display = "none";
