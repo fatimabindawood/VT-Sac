@@ -1,5 +1,4 @@
 <html>
-
 <head>
 
 	<meta http-equiv='cache-control' content='no-cache'>
@@ -7,12 +6,10 @@
 	<meta http-equiv='pragma' content='no-cache'>
 	<meta http-equiv="Pragma" content="no-cache" />
 	<meta http-equiv="Expires" content="-1" />
-	<meta name="viewport"
-		content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, shrink-to-fit=no">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, shrink-to-fit=no">
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	<style>
-		html,
-		body {
+		html, body {
 			margin: 0;
 			width: 100%;
 			height: 100%;
@@ -30,12 +27,12 @@
 			transition: opacity 0.5s ease;
 		}
 
-		#progressId.finish {
-			opacity: 0;
-		}
+			#progressId.finish {
+				opacity: 0;
+			}
 
 		.centerDiv {
-			background: url(Logo/shipdeck.jpg) no-repeat 20% 30%;
+			background:url(Logo/shipdeck.jpg) no-repeat 20% 30%;
 			background-size: cover;
 			background: white;
 		}
@@ -48,13 +45,13 @@
 			display: none;
 		}
 
-		.infoContainerStyle {
-			width: 550px;
-			height: 350px;
-			background: white;
-			display: none;
-			box-shadow: 1px 1px 24px 5px rgba(0, 0, 0, 0.75);
-		}
+        .infoContainerStyle {
+            width: 550px;
+            height: 350px;
+            background: white;
+            display: none;
+            box-shadow: 1px 1px 24px 5px rgba(0,0,0,0.75);
+        }
 
 		#imageHover {
 			width: 100%;
@@ -73,22 +70,18 @@
 	<script src='./js/data.js'></script>
 	<script src='./js/NoSleep.js'></script>
 </head>
-
 <body onload="docOnload()">
 
 	<!-- .LinkImage:hover{
 			width: 14%;
 			height: 6%;
 		} -->
-	<img src="Logo/RotatePhone.png" id="RotatePhoneImg"
-		style="width: 100%;height: 100%;position:absolute;top:0px;left:0px;z-index:100;display:none;">
+	<img src="Logo/RotatePhone.png" id="RotatePhoneImg" style="width: 100%;height: 100%;position:absolute;top:0px;left:0px;z-index:100;display:none;">
 
 	<div id="centerDivId" class="centerDiv" style="position:absolute;top:0px;left:0px;width:100%;height:100%;z-index:1">
 
-		<div onclick="LinkPano(1)" align="center" class=""
-			style="width:100%;height:100%;position:absolute;top:0px;left:0px;">
-			<img src="Logo.png"
-				style="width: 40%;position:absolute;top:40%;left:30%;cursor:pointer;box-shadow:2px 2px 15px 1px rgba(0,0,0,0.29)">
+		<div onclick="LinkPano(1)" align="center" class="" style="width:100%;height:100%;position:absolute;top:0px;left:0px;">
+			<img src="Logo.png" style="width: 40%;position:absolute;top:40%;left:30%;cursor:pointer;box-shadow:2px 2px 15px 1px rgba(0,0,0,0.29)">
 		</div>
 
 	</div>
@@ -96,7 +89,7 @@
 	<div id="containerHover" class="infoContainerStyle">
 		<!-- <img id="imageHover" /> -->
 		<div id="mainSlider" class="w3-content w3-display-container">
-		<img class="mySlides" src="./HoverImages/hover1.png" style="width:100%">
+			<!--<img class="mySlides" src="" style="width:100%">-->
 			<!-- <img class="mySlides" src="./HoverImages/hover1.jpg" style="width:100%">
 	<img class="mySlides" src="./HoverImages/hover2.png" style="width:100%">
 	<img class="mySlides" src="./HoverImages/hover3.jpg" style="width:100%"> -->
@@ -109,9 +102,7 @@
 
 
 	<!-- <div id="progress" style="width: 100%;z-index:1000;" class="finish"></div> -->
-	<label id="LoadingLabelId"
-		style="position:absolute;display:none;top:40%;left:30%;font-size:40px;color:#eeeeee;z-index:1;">Loading page,
-		Please wait...</label>
+	<label id="LoadingLabelId" style="position:absolute;display:none;top:40%;left:30%;font-size:40px;color:#eeeeee;z-index:1;">Loading page, Please wait...</label>
 	<audio id="myAudio">
 		<source id="audioSource" type="audio/mpeg" />
 	</audio>
@@ -126,15 +117,15 @@
 
 		function showDivs(n) {
 			var i;
-			var x = document.querySelector("mySlides");
-			if (n > x.length) { slideIndex = 2 }
+			var x = document.getElementsByClassName("mySlides");
+			if (n > x.length) { slideIndex = 1 }
 			if (n < 1) { slideIndex = x.length }
 			for (i = 0; i < x.length; i++) {
 				x[i].style.display = "none";
 			}
 			x[slideIndex - 1].style.display = "block";
 		}
-
+		
 	</script>
 
 	<script>
@@ -236,31 +227,31 @@
 			//console.log("-------onEnter--------");
 		}
 
-		function PlayAudio(audioName) {
-			/*try{
-			  if (audio.canPlayType("audio/mpeg")) {
-					audio.pause();
-					if(audioFileList.includes(parseInt(audioName)))
-					{
-						audio.setAttribute("src","Audio/"+audioName+".mp3");
-						setTimeout(function(){
-							if(!isHomePage)
-							{
-								audio.play(); 
-							}
-						}, 2000);
-					}
-					else
-					{
-						//console.info("No audio found");
-					}
-				}
-			}
-			catch(e)
-			{
-				console.info("Error : "+e)
-			}*/
-		}
+        function PlayAudio(audioName) {
+            /*try{
+              if (audio.canPlayType("audio/mpeg")) {
+                    audio.pause();
+                    if(audioFileList.includes(parseInt(audioName)))
+                    {
+                        audio.setAttribute("src","Audio/"+audioName+".mp3");
+                        setTimeout(function(){
+                            if(!isHomePage)
+                            {
+                                audio.play(); 
+                            }
+                        }, 2000);
+                    }
+                    else
+                    {
+                        //console.info("No audio found");
+                    }
+                }
+            }
+            catch(e)
+            {
+                console.info("Error : "+e)
+            }*/
+        }
 
 		function onProgress(event) {
 			progress = event.progress.loaded / event.progress.total * 100;
@@ -381,5 +372,4 @@
 
 	</script>
 </body>
-
 </html>
