@@ -44,7 +44,7 @@ var ShipDeck = function () {
 
 	this.LoadImagePanorama = function (panoname) {
 		var sceneObj = this.infoLinkdict[panoname];
-		this.CurrentPanorama = new PANOLENS.ImagePanorama("./images/" + sceneObj.images);
+		this.CurrentPanorama = new PANOLENS.ImagePanorama("./images/" + sceneObj.image);
 		this.CurrentPanorama.name = sceneObj.sceneName;
 		currentPanoName = sceneObj.sceneName;
 		this.CurrentPanorama.addEventListener('progress', onProgress);
@@ -92,15 +92,18 @@ var InfoPoint = function () {
 		this.createInfoSpot();
 	}
 
-	this.createInfoSpot = function () {
+	this.createInfoSpot = function ()
+	{
 		var iconName = this.infoLink.infoPointsName;
 		this.infospot = new PANOLENS.Infospot(this.infoPointSize, imageIconArray[iconName]);
 		//this.infospot.addHoverText( iconName );
 		this.infospot.position.set(this.infoLink.infoPointsCoordinates[0], this.infoLink.infoPointsCoordinates[1], this.infoLink.infoPointsCoordinates[2]);
-		if (this.infoLink.hasOwnProperty("hoverImage")) {
+		if (this.infoLink.hasOwnProperty("infoContainerStyle"))
+		{
 			mainSlider == 0;
-			for (var i = 0; i < 4; i++) {
-				$('#mainSlider').append('  <img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">  </div>');
+			for (var i = 0; i < this.infoLink.hoverImage.images.length; i++)
+			{
+				$('#mainSlider').append('<img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">');
 			}
 
 			this.infospot.addHoverElement(document.getElementById('containerHover'), 200);
