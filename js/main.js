@@ -103,7 +103,7 @@ var InfoPoint = function () {
 			mainSlider == 0;
 			for (var i = 0; i < this.infoLink.hoverImage.images.length; i++)
 			{
-				$('.carousel-item').append('<img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">');
+				$('.carousel-inner').append('  <div class="carousel-item"><img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">  </div>');
 			}
 
 			this.infospot.addHoverElement(document.getElementById('containerHover'), 200);
