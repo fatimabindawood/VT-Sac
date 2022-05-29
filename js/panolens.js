@@ -2145,7 +2145,7 @@ function EnableFullScreen(isFullscreen) {
 		 * @instance
 		 */
 		onHoverStart: function (event) {
-			//console.log("---------onHoverStart-------------");
+			console.log("---------onHoverStart-------------");
 
 			if (!this.getContainer()) { return; }
 			const cursorStyle = this.cursorStyle || (this.mode === MODES.NORMAL ? 'pointer' : 'default');
@@ -2161,9 +2161,14 @@ function EnableFullScreen(isFullscreen) {
 
 			if (element && event.mouseEvent.clientX >= 0 && event.mouseEvent.clientY >= 0) {
 
+				console.log("hover test 1")
+
 				var { left, right, style } = element;
 
 				if (this.mode === MODES.CARDBOARD || this.mode === MODES.STEREO) {
+
+					console.log("hover test 2")
+
 					style.display = 'none';
 					left.style.display = 'block';
 					right.style.display = 'block';
@@ -2173,6 +2178,13 @@ function EnableFullScreen(isFullscreen) {
 					element._height = left.clientHeight;
 
 				} else {
+
+					console.log("hover test 3")
+
+					// $(".popupRightBtn").trigger("click");
+					// showDivs(0);
+					plusDivs(0);
+
 					style.display = 'block';
 					if (left) { left.style.display = 'none'; }
 					if (right) { right.style.display = 'none'; }

@@ -101,9 +101,13 @@ var InfoPoint = function () {
 		if (this.infoLink.hasOwnProperty("hoverImage"))
 		{
 			mainSlider == 0;
+			$('#mainSlider').html("");
+			$('#mainSlider').append("<button class='w3-button w3-black w3-display-left' onclick='minusDivs(1)'>&#10094;</button>");
+			$('#mainSlider').append("<button class='w3-button w3-black w3-display-right popupRightBtn' onclick='plusDivs(1)'>&#10095;</button>");
+			slideIndex = 0;
 			for (var i = 0; i < this.infoLink.hoverImage.images.length; i++)
 			{
-				$('#mainSlider').append('<img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">');
+				$('#mainSlider').append('<img class="mySlides mySlides_'+i+'" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">');
 			}
 
 			this.infospot.addHoverElement(document.getElementById('containerHover'), 200);

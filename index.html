@@ -87,15 +87,11 @@
 	</div>
 
 	<div id="containerHover" class="infoContainerStyle">
-		<!-- <img id="imageHover" /> -->
 		<div id="mainSlider" class="w3-content w3-display-container">
-			<!--<img class="mySlides" src="" style="width:100%">-->
-			<!-- <img class="mySlides" src="./HoverImages/hover1.jpg" style="width:100%">
-	<img class="mySlides" src="./HoverImages/hover2.png" style="width:100%">
-	<img class="mySlides" src="./HoverImages/hover3.jpg" style="width:100%"> -->
+		
 
-			<button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-			<button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+			<!-- <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+			<button class="w3-button w3-black w3-display-right popupRightBtn" onclick="plusDivs(1)">&#10095;</button> -->
 		</div>
 	</div>
 
@@ -108,22 +104,71 @@
 	</audio>
 
 	<script>
-		var slideIndex = 1;
-		showDivs(slideIndex);
+		var slideIndex = 0;
+		// showDivs(slideIndex);
 
 		function plusDivs(n) {
-			showDivs(slideIndex += n);
+			plusDivss(n);
 		}
 
-		function showDivs(n) {
-			var i;
-			var x = document.getElementsByClassName("mySlides");
-			if (n > x.length) { slideIndex = 1 }
-			if (n < 1) { slideIndex = x.length }
-			for (i = 0; i < x.length; i++) {
-				x[i].style.display = "none";
+		function minusDivs(n) {
+			minusDivss(n);
+		}
+
+		function minusDivss(n) {
+			var oldIndex = "";
+
+			oldIndex = slideIndex;
+			
+
+			// var i;
+			// var x = document.getElementsByClassName("mySlides");
+			// console.log("test ======= ", x);
+			// if (n > x.length) { slideIndex = 1 }
+			// if (n < 1) { slideIndex = x.length }
+			// for (i = 0; i < x.length; i++) {
+			// 	x[i].style.display = "none";
+			// }
+			// x[slideIndex - 1].style.display = "block";
+			slideIndex = slideIndex - n;
+
+			var elementsCount = $("#mainSlider")[0].childElementCount;
+			elementsCount = elementsCount - 3;
+
+			if(slideIndex <= elementsCount && slideIndex >= 0) {
+				$(".mySlides").css("display","none");
+				$(".mySlides_"+slideIndex).css("display","block");
+			} else {
+				slideIndex = oldIndex;
 			}
-			x[slideIndex - 1].style.display = "block";
+		}
+
+		function plusDivss(n) {
+			var oldIndex = "";
+
+			oldIndex = slideIndex;
+			
+
+			// var i;
+			// var x = document.getElementsByClassName("mySlides");
+			// console.log("test ======= ", x);
+			// if (n > x.length) { slideIndex = 1 }
+			// if (n < 1) { slideIndex = x.length }
+			// for (i = 0; i < x.length; i++) {
+			// 	x[i].style.display = "none";
+			// }
+			// x[slideIndex - 1].style.display = "block";
+			slideIndex = slideIndex + n;
+
+			var elementsCount = $("#mainSlider")[0].childElementCount;
+			elementsCount = elementsCount - 3;
+
+			if(slideIndex <= elementsCount && slideIndex >= 0) {
+				$(".mySlides").css("display","none");
+				$(".mySlides_"+slideIndex).css("display","block");
+			} else {
+				slideIndex = oldIndex;
+			}
 		}
 	</script>
 
