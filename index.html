@@ -97,20 +97,10 @@
 
 	<div id="containerHover" class="infoContainerStyle">
 		<div id="mainSlider" class="w3-content w3-display-container">
-			<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-				<div class="carousel-inner">
-				
 			
-				</div>
-				<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-				  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-				</button>
-				<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-				  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-				</button>
-			  </div>
 
-
+			<button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+			<button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
 		</div>
 	</div>
 
@@ -125,7 +115,7 @@
 	</audio>
 
 	<script>
-	/*	var slideIndex = 3;
+		var slideIndex = 1;
 		showDivs(slideIndex);
 
 		function plusDivs(n) {
@@ -135,14 +125,14 @@
 		function showDivs(n) {
 			var i;
 			var x = document.getElementsByClassName("mySlides");
-			if (n > x.indexOf) { slideIndex = 3 }
+			if (n > x.length) { slideIndex = 1 }
 			if (n < 1) { slideIndex = x.length }
-			for (i = 2; i < x.length; i++) {
+			for (i = 0; i < x.length; i++) {
 				x[i].style.display = "none";
 			}
 			x[slideIndex].style.display = "block";
 		}
-*/
+
 
 	</script>
 

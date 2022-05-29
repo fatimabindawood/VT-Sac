@@ -92,21 +92,18 @@ var InfoPoint = function () {
 		this.createInfoSpot();
 	}
 
-	this.createInfoSpot = function ()
-	{
+	this.createInfoSpot = function () {
 		var iconName = this.infoLink.infoPointsName;
 		this.infospot = new PANOLENS.Infospot(this.infoPointSize, imageIconArray[iconName]);
 		//this.infospot.addHoverText( iconName );
 		this.infospot.position.set(this.infoLink.infoPointsCoordinates[0], this.infoLink.infoPointsCoordinates[1], this.infoLink.infoPointsCoordinates[2]);
-		if (this.infoLink.hasOwnProperty("hoverImage"))
-		{
+		if (this.infoLink.hasOwnProperty("hoverImage")) {
 			mainSlider == 0;
-			for (var i = 0; i < this.infoLink.hoverImage.images.length; i++)
-			{
-				$('.carousel-inner').append('  <div class="carousel-item"><img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">  </div>');
+			for (var i = 0; i < this.infoLink.hoverImage.images.length; i++) {
+				$('#mainSlider').append('  <img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">  </div>');
 			}
 
-			this.infospot.addHoverElement(document.getElementById('containerHover'), 200);
+			this.infospot.addHoverElement(document.getElementById('mainSlider'), 200);
 		}
 		else {
 			var shipdeck = this.shipdeckObj;
