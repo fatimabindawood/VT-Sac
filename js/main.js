@@ -98,7 +98,7 @@ var InfoPoint = function () {
 		this.infospot = new PANOLENS.Infospot(this.infoPointSize, imageIconArray[iconName]);
 		//this.infospot.addHoverText( iconName );
 		this.infospot.position.set(this.infoLink.infoPointsCoordinates[0], this.infoLink.infoPointsCoordinates[1], this.infoLink.infoPointsCoordinates[2]);
-		if (this.infoLink.hasOwnProperty("infoContainerStyle"))
+		if (this.infoLink.hasOwnProperty("hoverImage"))
 		{
 			mainSlider == 0;
 			for (var i = 0; i < this.infoLink.hoverImage.images.length; i++)
