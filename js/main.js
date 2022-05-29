@@ -97,13 +97,12 @@ var InfoPoint = function () {
 		var iconName = this.infoLink.infoPointsName;
 		this.infospot = new PANOLENS.Infospot(this.infoPointSize, imageIconArray[iconName]);
 		//this.infospot.addHoverText( iconName );
-		this.infospot.position.set(this.infoLink.infoPointsCoordinates[0], this.infoLink.infoPointsCoordinates[1], this.infoLink.infoPointsCoordinates[2]);
 		if (this.infoLink.hasOwnProperty("hoverImage"))
 		{
 			mainSlider == 0;
 			for (var i = 0; i < this.infoLink.hoverImage.images.length; i++)
 			{
-				$('#mainSlider').append('<img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">');
+				$('#mainSlider .carousel-inner .carousel-item').append('<img class="mySlides" src="./HoverImages/' + this.infoLink.hoverImage.images[i] + '" style="width:100%">');
 			}
 
 			this.infospot.addHoverElement(document.getElementById('containerHover'), 200);
