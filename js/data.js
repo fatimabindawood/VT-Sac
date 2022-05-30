@@ -83,14 +83,14 @@ var dataJson = {
             {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-4681.60, -689.27, 1596.15],
-                "infoHoverText": "",
-                "hoverImage": { "images": ["Abdullah-Al-Othman.png"]}
+                "infoHoverText": "71",
+                "hoverImage": { "images": ["Abdullah-Al-Othman-3.png"]}
             },
             {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [766.03, -559.24, 4898.50],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Mohammed-Hammad.png", "Mohammed-Hammad-1.png", "Mohammed-Hammad-2.png", "Mohammed-Hammad-3.png", "Mohammed-Hammad-4.png", "Mohammed-Hammad-5.png"] }
+                "hoverImage": { "images": ["Mohammed-Hammad.png", "Mohammed-Hammad-1.png", "Mohammed-Hammad-2.png", "Mohammed-Hammad-3.png", "Mohammed-Hammad-4.png", "Mohammed-Hammad-5.png"]}
             },
             {
                 "infoPointsName": "71",
