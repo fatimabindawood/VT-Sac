@@ -611,9 +611,9 @@ var dataJson = {
             "infoPointsCoordinates": [1267.94, -1300.88, -4647.74],
             "infoHoverText": "24"
             }, {
-                "infoPointsName": "71",
+                "infoPointsName": "77",
             "infoPointsCoordinates": [1402.60, -3081.56, 3668.25],
-                "infoHoverText": "71",
+                "infoHoverText": "77",
             "hoverImage": { "images": ["Sara-Abdu.png", "Sara-Abdu-1.png", "Sara-Abdu-2.png"] }
             }, {
                 "infoPointsName": "71",
@@ -636,9 +636,9 @@ var dataJson = {
             "infoPointsCoordinates": [3341.02, -1233.91, -3498.70],
             "infoHoverText": "25"
             }, {
-                "infoPointsName": "71",
+                "infoPointsName": "78",
                 "infoPointsCoordinates": [-3213.73, -1515.78, 3513.71],
-                "infoHoverText": "71",
+                "infoHoverText": "78",
             "hoverImage": { "images": ["Sara-Abdu.png", "Sara-Abdu-1.png", "Sara-Abdu-2.png"] }
             }, {
                 "infoPointsName": "71",
