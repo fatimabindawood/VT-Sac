@@ -81,10 +81,10 @@ var dataJson = {
             "infoHoverText": "6"
             },
             {
-             "infoPointsName": "71",
-             "infoPointsCoordinates": [-4681.60, -689.27, 1596.15],
-             "infoHoverText": "",
-             "hoverImage": { "images": ["Abdullah-Al-Othman.png","Abdullah-Al-Othman-1.png"]}
+                "infoPointsName": "71",
+                "infoPointsCoordinates": [-4681.60, -689.27, 1596.15],
+                "infoHoverText": "",
+                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"]}
             },
             {
                 "infoPointsName": "71",
@@ -111,18 +111,16 @@ var dataJson = {
             "infoPointsName": "7",
             "infoPointsCoordinates": [1090.87, -1989.34, -4447.31],
             "infoHoverText": "7"
-            },
-            {
-                "infoPointsName": "71",
-                "infoPointsCoordinates": [4610.60, -762.50, 1756.95],
-                "infoHoverText": "71",
-                "hoverImage": { "images": ["Mohammed-Hammad.png", "Mohammed-Hammad-1.png", "Mohammed-Hammad-2.png", "Mohammed-Hammad-3.png", "Mohammed-Hammad-4.png", "Mohammed-Hammad-5.png"] }
-            },
-            {
-                "infoPointsName": "71",
-                "infoPointsCoordinates": [-688.10, 376.51, 4931.45],
-                "infoHoverText": "71",
-                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
+        },{
+            "infoPointsName": "71",
+            "infoPointsCoordinates": [4610.60, -762.50, 1756.95],
+            "infoHoverText": "71",
+            "hoverImage": { "images": ["Mohammed-Hammad.png", "Mohammed-Hammad-1.png", "Mohammed-Hammad-2.png", "Mohammed-Hammad-3.png", "Mohammed-Hammad-4.png", "Mohammed-Hammad-5.png"] }
+            },{
+            "infoPointsName": "71",
+            "infoPointsCoordinates": [-688.10, 376.51, 4931.45],
+            "infoHoverText": "71",
+            "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
             }
         ]
     },
