@@ -232,7 +232,7 @@
 		function EnableDisableHomeScreen() {
 			if (isHomePageActive == false) {
 				$("#centerDivId").css("display", "none");
-				document.getElementsByClassName("logo").style.display = "block"; 
+				$(".logo").css("display", "block"); 
 
 				if (mobileOperatingSystem != "iOS") {
 					shipDeck.viewer.widget.EnableDisableFullScreen();
