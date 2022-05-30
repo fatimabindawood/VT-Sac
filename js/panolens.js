@@ -7782,6 +7782,10 @@ function EnableFullScreen(isFullscreen) {
 			container._width = window.innerWidth;
 			container._height = window.innerHeight;
 			document.body.appendChild(container);
+			var elem = document.createElement("img");
+			elem.setAttribute("src", "./assets/logo.png");
+			elem.setAttribute("class", "logo");
+			container.appendChild(elem);
 
 		}
 
