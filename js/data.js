@@ -81,10 +81,10 @@ var dataJson = {
             "infoHoverText": "6"
             },
             {
-                "infoPointsName": "71",
-                "infoPointsCoordinates": [-4681.60, -689.27, 1596.15],
-                "infoHoverText": "71",
-                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
+             "infoPointsName": "71",
+             "infoPointsCoordinates": [-4681.60, -689.27, 1596.15],
+             "infoHoverText": "",
+             "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png","Abdullah-Al-Othman-1.png"]}
             },
             {
                 "infoPointsName": "71",
