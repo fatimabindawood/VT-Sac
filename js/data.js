@@ -426,11 +426,6 @@ var dataJson = {
             "hoverImage": { "images": ["Bader-AlBalawi.png", "Bader-AlBalawi-1.png", "Bader-AlBalawi-2.png", "Bader-AlBalawi-3.png", "Bader-AlBalawi-4.png"] }
             }, {
                 "infoPointsName": "71",
-            "infoPointsCoordinates": [-3824.46, -693.08, 3130.43],
-                "infoHoverText": "71",
-            "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png"] }
-            }, {
-                "infoPointsName": "71",
             "infoPointsCoordinates": [-4782.12, 315.58, 1397.09],
                 "infoHoverText": "71",
             "hoverImage": { "images": ["Abdulhalim-Radwi.png", "Abdulhalim-Radwi-1.png", "Abdulhalim-Radwi-2.png", "Abdulhalim-Radwi-3.png", "Abdulhalim-Radwi-4.png", "Abdulhalim-Radwi-5.png"] }
