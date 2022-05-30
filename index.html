@@ -219,7 +219,6 @@
 			currentPanoName = infoPointName.toString();
 			isHomePage = false;
 			isHomePageActive = false;
-			$(".logo").css("display", "none"); 
 
 			shipDeck.LoadImagePanorama(infoPointName);
 			if (mobileOperatingSystem != "unknown") {
@@ -241,9 +240,14 @@
 				}
 				isHomePageActive = true;
 			}
+			else{
+				$(".logo").css("display", "none"); 
+
+			}
 			if (mobileOperatingSystem != "iOS") {
 				PlayAudio(currentPanoName);
 			}
+			
 		}
 
 
