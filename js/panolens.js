@@ -7785,6 +7785,7 @@ function EnableFullScreen(isFullscreen) {
 			var elem = document.createElement("img");
 			elem.setAttribute("src", "./assets/logo.png");
 			elem.setAttribute("class", "logo");
+			elem.setAttribute("display", "none")
 			container.appendChild(elem);
 
 		}
