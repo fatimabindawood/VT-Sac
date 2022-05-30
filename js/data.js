@@ -23,7 +23,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-2795.74, -1032.60, 4005.46],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["hover1.png", "Dia-al-Azzawi1.png", "Dia-al-Azzawi1-AR.png"]}
+                "hoverImage": { "images": ["Dia-al-Azzawi2.png", "Dia-al-Azzawi2-1.png"]}
             }
         ]
     }, {
@@ -43,7 +43,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-3782.96, -1557.83, 2866.83],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["hover1.png", "Dia-al-Azzawi1.png", "Dia-al-Azzawi1-AR.png"] }
+                "hoverImage": { "images": ["Dia-al-Azzawi2.png", "Dia-al-Azzawi2-1.png"] }
             }
 
         ]
@@ -64,7 +64,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-2374.12, -578.65, 4352.27],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-AR.png"] }
+                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png","Abdullah-Al-Othman-1.png"] }
             }
         ]
     },
@@ -84,7 +84,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-4681.60, -689.27, 1596.15],
                 "infoHoverText": "71",
-                "hoverImage": "Abdullah-Al-Othman.png"
+                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
             },
             {
                 "infoPointsName": "71",
