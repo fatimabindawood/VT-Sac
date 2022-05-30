@@ -112,7 +112,6 @@
 		</div>
 	</div>
 
-	<img src="./assets/logo.png" alt="logo" class="logo">
 
 
 	<!-- <div id="progress" style="width: 100%;z-index:1000;" class="finish"></div> -->
@@ -123,14 +122,17 @@
 		<source id="audioSource" type="audio/mpeg" />
 	</audio>
 	<script>
-		var x = document.getElementsByClassName("logo");
+		function start(){
+			var x = document.getElementsByClassName("logo");
 
-		if (document.getElementById("centerDivId").style.display === "none") {
-			x.style.display === "block";
-		}
-		else {
-			x.style.display = "none";
-		}
+			if (document.getElementById("centerDivId").style.display === "none") {
+				x.style.display === "block";
+			}
+			else {
+				x.style.display = "none";
+			}
+		};
+		window.onload = start;
 
 	</script>
 	<script>
