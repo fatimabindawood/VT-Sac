@@ -240,14 +240,13 @@
 				}
 				isHomePageActive = true;
 			}
-			else{
-				$(".logo").css("display", "none"); 
-
-			}
+			
 			if (mobileOperatingSystem != "iOS") {
 				PlayAudio(currentPanoName);
 			}
-			
+			if(isHomePageActive == true){
+				$(".logo").css("display", "block");
+			}
 		}
 
 
