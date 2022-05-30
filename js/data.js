@@ -82,9 +82,9 @@ var dataJson = {
             },
             {
                 "infoPointsName": "71",
-                "infoPointsCoordinates": [-4681.60, -689.27, 1596.15],
+                "infoPointsCoordinates": [-4640.44, -1072.60, 1511.75],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Abdullah-Al-Othman-3.png"]}
+                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
             },
             {
                 "infoPointsName": "71",
@@ -549,7 +549,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-2176.51, -1103.63, 4354.29],
                 "infoHoverText": "71",
-            "hoverImage": "Ali-Cherri.png"
+            "hoverImage": { "images": ["Ali-Cherri.png", "Ali-Cherri-1.png", "Ali-Cherri-2.png", "Ali-Cherri-3.png", "Ali-Cherri-4.png"] }
             }
 
         ]
@@ -569,7 +569,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4691.30, -1113.36, -1292.19],
                 "infoHoverText": "71",
-            "hoverImage": "Talib-Almarri.png"
+            "hoverImage": { "images": ["Talib-Almarri.png", "Talib-Almarri-1.png", "Talib-Almarri-2.png", "Talib-Almarri-3.png", "Talib-Almarri-4.png"] }
             }
 
         ]
@@ -589,12 +589,12 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-2347.72, -1336.36, -4199.42],
                 "infoHoverText": "71",
-                "hoverImage": "Talib-Almarri.png"
+            "hoverImage": { "images": ["Talib-Almarri.png", "Talib-Almarri-1.png", "Talib-Almarri-2.png", "Talib-Almarri-3.png", "Talib-Almarri-4.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [4129.60, -694.58, 2714.92],
                 "infoHoverText": "71",
-            "hoverImage": "Sara-Abdu.png"
+            "hoverImage": { "images": ["Sara-Abdu.png", "Sara-Abdu-1.png", "Sara-Abdu-2.png"] }
             }
 
         ]
@@ -614,12 +614,12 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [1402.60, -3081.56, 3668.25],
                 "infoHoverText": "71",
-                "hoverImage": "Sara-Abdu.png"
+            "hoverImage": { "images": ["Sara-Abdu.png", "Sara-Abdu-1.png", "Sara-Abdu-2.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [3654.69, -559.79, -3356.92],
                 "infoHoverText": "71",
-                "hoverImage": "Talib-Almarri.png"
+            "hoverImage": { "images": ["Talib-Almarri.png", "Talib-Almarri-1.png", "Talib-Almarri-2.png", "Talib-Almarri-3.png", "Talib-Almarri-4.png"] }
             }
 
         ]
@@ -639,12 +639,12 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-3213.73, -1515.78, 3513.71],
                 "infoHoverText": "71",
-                "hoverImage": "Sara-Abdu.png"
+            "hoverImage": { "images": ["Sara-Abdu.png", "Sara-Abdu-1.png", "Sara-Abdu-2.png"] }
             }, {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [4728.78, 1436.89, 694.74],
                 "infoHoverText": "71",
-                "hoverImage": "Talib-Almarri.png"
+            "hoverImage": { "images": ["Talib-Almarri.png", "Talib-Almarri-1.png", "Talib-Almarri-2.png", "Talib-Almarri-3.png", "Talib-Almarri-4.png"] }
             }
 
         ]
