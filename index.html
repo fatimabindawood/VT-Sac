@@ -123,13 +123,13 @@
 		<source id="audioSource" type="audio/mpeg" />
 	</audio>
 	<script>
-		var x = document.getElementById("logo");
+		var x = document.getElementsByClassName("logo");
 
-		if (document.getElementsByClassName("whiteLogo") === true) {
+		if (document.getElementById("centerDivId").style.display === "block") {
 			x.style.display === "none";
 		}
 		else {
-			x.style.display = "none";
+			x.style.display = "block";
 		}
 
 	</script>
