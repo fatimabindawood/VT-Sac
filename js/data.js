@@ -90,7 +90,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [766.03, -559.24, 4898.50],
                 "infoHoverText": "71",
-                "hoverImage": "Mohammed-Hammad.png"
+                "hoverImage": { "images": ["Mohammed-Hammad.png", "Mohammed-Hammad-1.png", "Mohammed-Hammad-2.png", "Mohammed-Hammad-3.png", "Mohammed-Hammad-4.png", "Mohammed-Hammad-5.png"] }
             },
             {
                 "infoPointsName": "71",
