@@ -122,10 +122,11 @@
 		<source id="audioSource" type="audio/mpeg" />
 	</audio>
 	<script>
-		if (document.getElementsByClassName("panolens-infospot") == true) {
-			console.log('appended')
-			$('.panolens-infospot"').append('	<img src="./assets/logo.png" alt="logo" class="logo">');
-		}
+var elem = document.createElement("img");
+
+elem.setAttribute("src", "./assets/logo.png");
+elem.setAttribute("class", "logo");
+   element.appendChild(elem);
 	</script>
 	<script>
 
