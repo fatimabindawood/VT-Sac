@@ -122,16 +122,7 @@
 		<source id="audioSource" type="audio/mpeg" />
 	</audio>
 	<script>
-		function start(){
-			var x = document.getElementsByClassName("logo");
-
-			if (document.getElementById("centerDivId").style.display === "none") {
-				x.style.display === "block";
-			}
-			
-		};
-		window.onload = start;
-
+		
 	</script>
 	<script>
 
@@ -241,6 +232,8 @@
 		function EnableDisableHomeScreen() {
 			if (isHomePageActive == false) {
 				$("#centerDivId").css("display", "none");
+				document.getElementsByClassName("logo").style.display = "block"; 
+
 				if (mobileOperatingSystem != "iOS") {
 					shipDeck.viewer.widget.EnableDisableFullScreen();
 				}
