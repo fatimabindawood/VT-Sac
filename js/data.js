@@ -1181,12 +1181,12 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-1158.32, 222.83, -4849.87],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Dia-al-Azzawi2.png", "Dia-al-Azzawi2-4.png", "Dia-al-Azzawi2.png", "Dia-al-Azzawi2-4.png"] }
+            "hoverImage": { "images": ["Dia-al-Azzawi2.png", "Dia-al-Azzawi2-5.png", "Dia-al-Azzawi2.png", "Dia-al-Azzawi2-5.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [1905.82, -521.66, -4583.94],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Dia-al-Azzawi2.png", "Dia-al-Azzawi2-5.png", "Dia-al-Azzawi2.png", "Dia-al-Azzawi2-5.png"] }
+            "hoverImage": { "images": ["Dia-al-Azzawi2.png", "Dia-al-Azzawi2-4.png", "Dia-al-Azzawi2.png", "Dia-al-Azzawi2-4.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [3129.59, -744.07, -3817.38],
