@@ -157,14 +157,14 @@ var dataJson = {
             "infoHoverText": "9"
             }, {
                 "infoPointsName": "71",
-            "infoPointsCoordinates": [3497.39, -359.61, -3544.03],
-                "infoHoverText": "71",
-            "hoverImage": { "images": ["Abdullah-Al-Othman.png","Abdullah-Al-Othman-2.png","Abdullah-Al-Othman-1.png"] }
-            }, {
-                "infoPointsName": "71",
             "infoPointsCoordinates": [417.88, -1339.95, 4791.24],
                 "infoHoverText": "71",
             "hoverImage": { "images": ["Abdulhalim-Radwi.png", "Abdulhalim-Radwi-1.png", "Abdulhalim-Radwi-2.png", "Abdulhalim-Radwi-3.png", "Abdulhalim-Radwi-4.png", "Abdulhalim-Radwi-5.png"] }
+            }, {
+                "infoPointsName": "71",
+                "infoPointsCoordinates": [3497.39, -359.61, -3544.03],
+                "infoHoverText": "71",
+                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
             }
         ]
     }
@@ -182,14 +182,14 @@ var dataJson = {
             "infoHoverText": "10"
             }, {
                 "infoPointsName": "71",
-            "infoPointsCoordinates": [-4333.05, -2482.52, 56.03],
+                "infoPointsCoordinates": [1746.99, -600.26, 4634.96],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Abdulhalim-Radwi.png", "Abdulhalim-Radwi-1.png", "Abdulhalim-Radwi-2.png", "Abdulhalim-Radwi-3.png", "Abdulhalim-Radwi-4.png", "Abdulhalim-Radwi-5.png"] }
+                "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png"] }
             }, {
                 "infoPointsName": "71",
-            "infoPointsCoordinates": [1746.99, -600.26, 4634.96],
+                "infoPointsCoordinates": [4909.72, -117.43, 890.29],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png"] }
+                "hoverImage": { "images": ["Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png"] }
             },
             {
                 "infoPointsName": "71",
@@ -198,9 +198,9 @@ var dataJson = {
                 "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
             }, {
                 "infoPointsName": "71",
-                "infoPointsCoordinates": [4909.72, -117.43, 890.29],
+            "infoPointsCoordinates": [-4333.05, -2482.52, 56.03],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png"] }
+            "hoverImage": { "images": ["Abdulhalim-Radwi.png", "Abdulhalim-Radwi-1.png", "Abdulhalim-Radwi-2.png", "Abdulhalim-Radwi-3.png", "Abdulhalim-Radwi-4.png", "Abdulhalim-Radwi-5.png"] }
             }
         ]
     }
