@@ -96,7 +96,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-4640.44, -1072.60, 1511.75],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
+                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png", "Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
             }
         ]
     },
@@ -120,7 +120,7 @@ var dataJson = {
             "infoPointsName": "71",
             "infoPointsCoordinates": [-688.10, 376.51, 4931.45],
             "infoHoverText": "71",
-            "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
+                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png", "Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
             }
         ]
     },
@@ -164,7 +164,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [3497.39, -359.61, -3544.03],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
+            "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png", "Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
             }
         ]
     }
@@ -184,18 +184,18 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [1746.99, -600.26, 4634.96],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png"] }
+            "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png", "Safeya-Binzagr.png", "Safeya-Binzagr-1.png", "Safeya-Binzagr.png", "Safeya-Binzagr-1.png"] }
             }, {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [4909.72, -117.43, 890.29],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png"] }
+            "hoverImage": { "images": ["Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png", "Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png"] }
             },
             {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [649.76, -339.45, -4938.99],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
+                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png", "Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4333.05, -2482.52, 56.03],
@@ -220,17 +220,17 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [4639.79, -1629.79, 862.28],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png"] }
+            "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png", "Safeya-Binzagr.png", "Safeya-Binzagr-1.png", "Safeya-Binzagr.png", "Safeya-Binzagr-1.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-556.98, -233.05, -4957.91],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png"] }
+            "hoverImage": { "images": ["Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png", "Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4831.47, -506.43, -1149.16],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Reem-Alfaisal.png", "Reem-Alfaisal-1.png"] }
+            "hoverImage": { "images": ["Reem-Alfaisal.png", "Reem-Alfaisal-1.png", "Reem-Alfaisal.png", "Reem-Alfaisal-1.png", "Reem-Alfaisal.png", "Reem-Alfaisal-1.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-629.85, -425.56, 4936.06],
@@ -255,17 +255,17 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-770.17, -3033.76, 3892.32],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png"] }
+            "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png", "Safeya-Binzagr.png", "Safeya-Binzagr-1.png", "Safeya-Binzagr.png", "Safeya-Binzagr-1.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [3688.95, -546.34, -3324.91],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png"] }
+            "hoverImage": { "images": ["Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png", "Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-3931.82, -557.16, -3023.37],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Reem-Alfaisal.png", "Reem-Alfaisal-1.png"] }
+            "hoverImage": { "images": ["Reem-Alfaisal.png", "Reem-Alfaisal-1.png", "Reem-Alfaisal.png", "Reem-Alfaisal-1.png", "Reem-Alfaisal.png", "Reem-Alfaisal-1.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4638.20, -427.84, 1795.41],
@@ -306,17 +306,17 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [3988.92, -238.03, 2993.44],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png"] }
+            "hoverImage": { "images": ["Emy-Kat.png", "Emy-Kat-1.png", "Emy-Kat-2.png", "Emy-Kat-1.png", "Emy-Kat-2.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [1538.40, -706.79, 4701.54],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png"] }
+            "hoverImage": { "images": ["Safeya-Binzagr.png", "Safeya-Binzagr-1.png", "Safeya-Binzagr.png", "Safeya-Binzagr-1.png", "Safeya-Binzagr.png"] }
             },{
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-3008.08, -499.67, 3952.95],
                 "infoHoverText": "71",
-            "hoverImage": { "images": ["Reem-Alfaisal.png", "Reem-Alfaisal-1.png"] }
+            "hoverImage": { "images": ["Reem-Alfaisal.png", "Reem-Alfaisal-1.png", "Reem-Alfaisal.png", "Reem-Alfaisal-1.png", "Reem-Alfaisal.png"] }
             }
 
         ]
