@@ -96,7 +96,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-4640.44, -1072.60, 1511.75],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png", "none", none, "none"] }
+                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png", "none", "none", "none"] }
             }
         ]
     },
