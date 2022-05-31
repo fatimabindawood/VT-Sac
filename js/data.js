@@ -96,7 +96,7 @@ var dataJson = {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [-4640.44, -1072.60, 1511.75],
                 "infoHoverText": "71",
-                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png", "Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png"] }
+                "hoverImage": { "images": ["Abdullah-Al-Othman.png", "Abdullah-Al-Othman-2.png", "Abdullah-Al-Othman-1.png", "", "", ""] }
             }
         ]
     },
@@ -669,17 +669,17 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-1579.61, 526.38, 4708.57],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4700.45, 491.61, 1612.23],
                 "infoHoverText": "71",
-                "hoverImage": "Obadah-AlJefri.png"
+            "hoverImage": { "images": ["Obadah-AlJefri.png", "Obadah-AlJefri-1.png", "Obadah-AlJefri-2.png", "Obadah-AlJefri-3.png", "Obadah-AlJefri-4.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-2568.02, -895.16, 4185.89],
                 "infoHoverText": "71",
-            "hoverImage": "Manal-AlDowayan.png"
+            "hoverImage": { "images": ["Manal-AlDowayan.png", "Manal-AlDowayan-1.png", "Manal-AlDowayan-2.png"] }
             }
 
 
@@ -702,7 +702,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4094.91, -668.83, 2773.93],
                 "infoHoverText": "71",
-            "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4465.87, 496.65, -2172.52],
@@ -738,12 +738,12 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-1019.97, -1061.60, -4774.88],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [3018.81, -486.78, 3946.22],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4862.15, -167.23, -1120.89],
@@ -784,12 +784,12 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-1974.70, -458.62, -4565.48],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
                 "infoPointsCoordinates": [4706.77, -1472.38, 769.76],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4570.69, -128.67, -2011.87],
@@ -829,12 +829,12 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-4639.17, 478.15, 1776.31],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [133.81, 410.97, 4975.36],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [4225.05, 1966.77, 1797.26],
@@ -874,7 +874,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-1149.14, 104.78, -4857.12],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [3218.66, 705.68, 3751.09],
@@ -910,6 +910,11 @@ var dataJson = {
             "infoPointsName": "33",
             "infoPointsCoordinates": [-2142.84, -2271.19, -3900.54],
             "infoHoverText": "33"
+            }, {
+                "infoPointsName": "71",
+                "infoPointsCoordinates": [-3660.51, 140.16, -3393.09],
+                "infoHoverText": "71",
+                "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             },{
                 "infoPointsName": "71",
             "infoPointsCoordinates": [4024.29, -1850.31, 2314.24],
@@ -925,11 +930,6 @@ var dataJson = {
             "infoPointsCoordinates": [-583.10, 965.63, -4863.90],
                 "infoHoverText": "71",
                 "hoverImage": "Obadah-AlJefri.png"
-            }, {
-                "infoPointsName": "71",
-            "infoPointsCoordinates": [-3660.51, 140.16, -3393.09],
-                "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
             }
 
         ]
@@ -947,6 +947,11 @@ var dataJson = {
             "infoHoverText": "34"
             }, {
                 "infoPointsName": "71",
+                "infoPointsCoordinates": [-3312.52, 199.44, 3732.49],
+                "infoHoverText": "71",
+                "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
+            }, {
+                "infoPointsName": "71",
             "infoPointsCoordinates": [4230.14, -947.24, -2480.90],
                 "infoHoverText": "71",
                 "hoverImage": "Taysir-Batniji.png"
@@ -960,11 +965,6 @@ var dataJson = {
             "infoPointsCoordinates": [-4830.72, -276.30, -1221.67],
                 "infoHoverText": "71",
                 "hoverImage": "Obadah-AlJefri.png"
-            }, {
-                "infoPointsName": "71",
-            "infoPointsCoordinates": [-3312.52, 199.44, 3732.49],
-                "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
             }
 
 
@@ -985,7 +985,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [799.84, 379.22, -4913.64],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-2948.90, 760.38, 3961.22],
@@ -1025,7 +1025,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-1264.10, 375.88, -4815.30],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-1429.84, 646.99, 4739.06],
@@ -1065,7 +1065,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [2106.83, 154.99, 4523.63],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [4494.46, 214.85, 2158.92],
@@ -1105,7 +1105,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [4946.59, 632.28, 183.08],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [2554.84, 1190.44, -4122.22],
@@ -1906,7 +1906,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [2685.09, 512.41, -4174.65],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [3934.26, -2417.20, -1896.80],
@@ -1941,7 +1941,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [2493.27, 423.91, 4311.69],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-560.54, 41.58, 4964.96],
@@ -1976,7 +1976,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [2416.10, 430.36, 4350.55],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [-1190.45, -59.50, 4847.89],
@@ -2006,7 +2006,7 @@ var dataJson = {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [4106.34, 423.27, -2809.62],
                 "infoHoverText": "71",
-                "hoverImage": "Asma-Bahmim.png"
+            "hoverImage": { "images": ["Asma-Bahmim.png", "Asma-Bahmim-1.png", "Asma-Bahmim-2.png", "Asma-Bahmim-3.png", "Asma-Bahmim-4.png", "Asma-Bahmim-5.png", "Asma-Bahmim-6.png"] }
             }, {
                 "infoPointsName": "71",
             "infoPointsCoordinates": [4943.20, 221.82, 652.71],
